@@ -1,0 +1,7884 @@
+[
+  {
+    "subject": "NOS",
+    "level": "SL",
+    "subjectOption": "NATURE OF SCIENCE",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "grade": "2",
+        "from": 8,
+        "to": 20
+      },
+      {
+        "grade": "3",
+        "from": 21,
+        "to": 37
+      },
+      {
+        "grade": "4",
+        "from": 38,
+        "to": 44
+      },
+      {
+        "grade": "5",
+        "from": 45,
+        "to": 56
+      },
+      {
+        "grade": "6",
+        "from": 57,
+        "to": 64
+      },
+      {
+        "grade": "7",
+        "from": 65,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "FILM",
+    "level": "HL",
+    "subjectOption": "FILM",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "grade": "2",
+        "from": 5,
+        "to": 24
+      },
+      {
+        "grade": "3",
+        "from": 25,
+        "to": 35
+      },
+      {
+        "grade": "4",
+        "from": 36,
+        "to": 51
+      },
+      {
+        "grade": "5",
+        "from": 52,
+        "to": 68
+      },
+      {
+        "grade": "6",
+        "from": 69,
+        "to": 81
+      },
+      {
+        "grade": "7",
+        "from": 82,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "FILM",
+    "level": "SL",
+    "subjectOption": "FILM",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "grade": "2",
+        "from": 7,
+        "to": 24
+      },
+      {
+        "grade": "3",
+        "from": 25,
+        "to": 37
+      },
+      {
+        "grade": "4",
+        "from": 38,
+        "to": 50
+      },
+      {
+        "grade": "5",
+        "from": 51,
+        "to": 67
+      },
+      {
+        "grade": "6",
+        "from": 68,
+        "to": 84
+      },
+      {
+        "grade": "7",
+        "from": 85,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ITGS",
+    "level": "HL",
+    "subjectOption": "ITGS",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "grade": "2",
+        "from": 8,
+        "to": 14
+      },
+      {
+        "grade": "3",
+        "from": 15,
+        "to": 26
+      },
+      {
+        "grade": "4",
+        "from": 27,
+        "to": 42
+      },
+      {
+        "grade": "5",
+        "from": 43,
+        "to": 52
+      },
+      {
+        "grade": "6",
+        "from": 53,
+        "to": 63
+      },
+      {
+        "grade": "7",
+        "from": 64,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ITGS",
+    "level": "SL",
+    "subjectOption": "ITGS",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "grade": "2",
+        "from": 7,
+        "to": 13
+      },
+      {
+        "grade": "3",
+        "from": 14,
+        "to": 21
+      },
+      {
+        "grade": "4",
+        "from": 22,
+        "to": 36
+      },
+      {
+        "grade": "5",
+        "from": 37,
+        "to": 48
+      },
+      {
+        "grade": "6",
+        "from": 49,
+        "to": 60
+      },
+      {
+        "grade": "7",
+        "from": 61,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "DANCE",
+    "level": "HL",
+    "subjectOption": "DANCE",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 16
+      },
+      {
+        "grade": "2",
+        "from": 17,
+        "to": 33
+      },
+      {
+        "grade": "3",
+        "from": 34,
+        "to": 49
+      },
+      {
+        "grade": "4",
+        "from": 50,
+        "to": 63
+      },
+      {
+        "grade": "5",
+        "from": 64,
+        "to": 74
+      },
+      {
+        "grade": "6",
+        "from": 75,
+        "to": 84
+      },
+      {
+        "grade": "7",
+        "from": 85,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "DANCE",
+    "level": "SL",
+    "subjectOption": "DANCE",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 17
+      },
+      {
+        "grade": "2",
+        "from": 18,
+        "to": 33
+      },
+      {
+        "grade": "3",
+        "from": 34,
+        "to": 56
+      },
+      {
+        "grade": "4",
+        "from": 57,
+        "to": 67
+      },
+      {
+        "grade": "5",
+        "from": 68,
+        "to": 75
+      },
+      {
+        "grade": "6",
+        "from": 76,
+        "to": 85
+      },
+      {
+        "grade": "7",
+        "from": 86,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "LATIN",
+    "level": "HL",
+    "subjectOption": "LATIN",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "grade": "2",
+        "from": 6,
+        "to": 13
+      },
+      {
+        "grade": "3",
+        "from": 14,
+        "to": 24
+      },
+      {
+        "grade": "4",
+        "from": 25,
+        "to": 39
+      },
+      {
+        "grade": "5",
+        "from": 40,
+        "to": 52
+      },
+      {
+        "grade": "6",
+        "from": 53,
+        "to": 69
+      },
+      {
+        "grade": "7",
+        "from": 70,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "LATIN",
+    "level": "SL",
+    "subjectOption": "LATIN",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "grade": "2",
+        "from": 6,
+        "to": 13
+      },
+      {
+        "grade": "3",
+        "from": 14,
+        "to": 24
+      },
+      {
+        "grade": "4",
+        "from": 25,
+        "to": 31
+      },
+      {
+        "grade": "5",
+        "from": 32,
+        "to": 41
+      },
+      {
+        "grade": "6",
+        "from": 42,
+        "to": 56
+      },
+      {
+        "grade": "7",
+        "from": 57,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "MUSIC",
+    "level": "HL",
+    "subjectOption": "MUSIC",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "grade": "2",
+        "from": 16,
+        "to": 33
+      },
+      {
+        "grade": "3",
+        "from": 34,
+        "to": 50
+      },
+      {
+        "grade": "4",
+        "from": 51,
+        "to": 62
+      },
+      {
+        "grade": "5",
+        "from": 63,
+        "to": 74
+      },
+      {
+        "grade": "6",
+        "from": 75,
+        "to": 87
+      },
+      {
+        "grade": "7",
+        "from": 88,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "MUSIC",
+    "level": "SL",
+    "subjectOption": "MUSIC GR.PERF",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "grade": "2",
+        "from": 16,
+        "to": 32
+      },
+      {
+        "grade": "3",
+        "from": 33,
+        "to": 52
+      },
+      {
+        "grade": "4",
+        "from": 53,
+        "to": 65
+      },
+      {
+        "grade": "5",
+        "from": 66,
+        "to": 72
+      },
+      {
+        "grade": "6",
+        "from": 73,
+        "to": 85
+      },
+      {
+        "grade": "7",
+        "from": 86,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "MUSIC",
+    "level": "SL",
+    "subjectOption": "MUSIC SO.PERF",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "grade": "2",
+        "from": 16,
+        "to": 32
+      },
+      {
+        "grade": "3",
+        "from": 33,
+        "to": 50
+      },
+      {
+        "grade": "4",
+        "from": 51,
+        "to": 62
+      },
+      {
+        "grade": "5",
+        "from": 63,
+        "to": 75
+      },
+      {
+        "grade": "6",
+        "from": 76,
+        "to": 87
+      },
+      {
+        "grade": "7",
+        "from": 88,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "MUSIC",
+    "level": "SL",
+    "subjectOption": "MUSIC CREATING",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 16
+      },
+      {
+        "grade": "2",
+        "from": 17,
+        "to": 33
+      },
+      {
+        "grade": "3",
+        "from": 34,
+        "to": 49
+      },
+      {
+        "grade": "4",
+        "from": 50,
+        "to": 62
+      },
+      {
+        "grade": "5",
+        "from": 63,
+        "to": 73
+      },
+      {
+        "grade": "6",
+        "from": 74,
+        "to": 86
+      },
+      {
+        "grade": "7",
+        "from": 87,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "BIOLOGY",
+    "level": "HL",
+    "subjectOption": "BIOLOGY",
+    "timezone": 1,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "grade": "2",
+        "from": 13,
+        "to": 18
+      },
+      {
+        "grade": "3",
+        "from": 19,
+        "to": 28
+      },
+      {
+        "grade": "4",
+        "from": 29,
+        "to": 40
+      },
+      {
+        "grade": "5",
+        "from": 41,
+        "to": 58
+      },
+      {
+        "grade": "6",
+        "from": 59,
+        "to": 74
+      },
+      {
+        "grade": "7",
+        "from": 75,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "BIOLOGY",
+    "level": "HL",
+    "subjectOption": "BIOLOGY",
+    "timezone": 2,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "grade": "2",
+        "from": 16,
+        "to": 23
+      },
+      {
+        "grade": "3",
+        "from": 24,
+        "to": 33
+      },
+      {
+        "grade": "4",
+        "from": 34,
+        "to": 46
+      },
+      {
+        "grade": "5",
+        "from": 47,
+        "to": 58
+      },
+      {
+        "grade": "6",
+        "from": 59,
+        "to": 75
+      },
+      {
+        "grade": "7",
+        "from": 76,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "BIOLOGY",
+    "level": "SL",
+    "subjectOption": "BIOLOGY",
+    "timezone": 1,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 11
+      },
+      {
+        "grade": "2",
+        "from": 12,
+        "to": 20
+      },
+      {
+        "grade": "3",
+        "from": 21,
+        "to": 31
+      },
+      {
+        "grade": "4",
+        "from": 32,
+        "to": 43
+      },
+      {
+        "grade": "5",
+        "from": 44,
+        "to": 59
+      },
+      {
+        "grade": "6",
+        "from": 60,
+        "to": 73
+      },
+      {
+        "grade": "7",
+        "from": 74,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "BIOLOGY",
+    "level": "SL",
+    "subjectOption": "BIOLOGY",
+    "timezone": 2,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 11
+      },
+      {
+        "grade": "2",
+        "from": 12,
+        "to": 21
+      },
+      {
+        "grade": "3",
+        "from": 22,
+        "to": 30
+      },
+      {
+        "grade": "4",
+        "from": 31,
+        "to": 43
+      },
+      {
+        "grade": "5",
+        "from": 44,
+        "to": 58
+      },
+      {
+        "grade": "6",
+        "from": 59,
+        "to": 74
+      },
+      {
+        "grade": "7",
+        "from": 75,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "BUS MAN",
+    "level": "HL",
+    "subjectOption": "BUSINESS MANAGEMENT",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 10
+      },
+      {
+        "grade": "2",
+        "from": 11,
+        "to": 24
+      },
+      {
+        "grade": "3",
+        "from": 25,
+        "to": 33
+      },
+      {
+        "grade": "4",
+        "from": 34,
+        "to": 45
+      },
+      {
+        "grade": "5",
+        "from": 46,
+        "to": 54
+      },
+      {
+        "grade": "6",
+        "from": 55,
+        "to": 64
+      },
+      {
+        "grade": "7",
+        "from": 65,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "BUS MAN",
+    "level": "SL",
+    "subjectOption": "BUSINESS MANAGEMENT",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 17
+      },
+      {
+        "grade": "3",
+        "from": 18,
+        "to": 26
+      },
+      {
+        "grade": "4",
+        "from": 27,
+        "to": 39
+      },
+      {
+        "grade": "5",
+        "from": 40,
+        "to": 53
+      },
+      {
+        "grade": "6",
+        "from": 54,
+        "to": 66
+      },
+      {
+        "grade": "7",
+        "from": 67,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "DUTCH B",
+    "level": "HL",
+    "subjectOption": "DUTCH B",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 14
+      },
+      {
+        "grade": "2",
+        "from": 15,
+        "to": 29
+      },
+      {
+        "grade": "3",
+        "from": 30,
+        "to": 42
+      },
+      {
+        "grade": "4",
+        "from": 43,
+        "to": 54
+      },
+      {
+        "grade": "5",
+        "from": 55,
+        "to": 67
+      },
+      {
+        "grade": "6",
+        "from": 68,
+        "to": 83
+      },
+      {
+        "grade": "7",
+        "from": 84,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "DUTCH B",
+    "level": "SL",
+    "subjectOption": "DUTCH B",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "grade": "2",
+        "from": 13,
+        "to": 26
+      },
+      {
+        "grade": "3",
+        "from": 27,
+        "to": 39
+      },
+      {
+        "grade": "4",
+        "from": 40,
+        "to": 53
+      },
+      {
+        "grade": "5",
+        "from": 54,
+        "to": 66
+      },
+      {
+        "grade": "6",
+        "from": 67,
+        "to": 81
+      },
+      {
+        "grade": "7",
+        "from": 82,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "HINDI B",
+    "level": "HL",
+    "subjectOption": "HINDI B",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 16
+      },
+      {
+        "grade": "2",
+        "from": 17,
+        "to": 34
+      },
+      {
+        "grade": "3",
+        "from": 35,
+        "to": 47
+      },
+      {
+        "grade": "4",
+        "from": 48,
+        "to": 57
+      },
+      {
+        "grade": "5",
+        "from": 58,
+        "to": 69
+      },
+      {
+        "grade": "6",
+        "from": 70,
+        "to": 81
+      },
+      {
+        "grade": "7",
+        "from": 82,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "HINDI B",
+    "level": "SL",
+    "subjectOption": "HINDI B",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 8
+      },
+      {
+        "grade": "2",
+        "from": 9,
+        "to": 19
+      },
+      {
+        "grade": "3",
+        "from": 20,
+        "to": 34
+      },
+      {
+        "grade": "4",
+        "from": 35,
+        "to": 48
+      },
+      {
+        "grade": "5",
+        "from": 49,
+        "to": 63
+      },
+      {
+        "grade": "6",
+        "from": 64,
+        "to": 78
+      },
+      {
+        "grade": "7",
+        "from": 79,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "HISTORY",
+    "level": "SL",
+    "subjectOption": "HISTORY",
+    "timezone": 1,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "grade": "2",
+        "from": 8,
+        "to": 23
+      },
+      {
+        "grade": "3",
+        "from": 24,
+        "to": 33
+      },
+      {
+        "grade": "4",
+        "from": 34,
+        "to": 47
+      },
+      {
+        "grade": "5",
+        "from": 48,
+        "to": 56
+      },
+      {
+        "grade": "6",
+        "from": 57,
+        "to": 70
+      },
+      {
+        "grade": "7",
+        "from": 71,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "HISTORY",
+    "level": "SL",
+    "subjectOption": "HISTORY",
+    "timezone": 2,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "grade": "2",
+        "from": 8,
+        "to": 23
+      },
+      {
+        "grade": "3",
+        "from": 24,
+        "to": 33
+      },
+      {
+        "grade": "4",
+        "from": 34,
+        "to": 47
+      },
+      {
+        "grade": "5",
+        "from": 48,
+        "to": 56
+      },
+      {
+        "grade": "6",
+        "from": 57,
+        "to": 70
+      },
+      {
+        "grade": "7",
+        "from": 71,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "HISTORY",
+    "level": "HL",
+    "subjectOption": "HISTORY EUROPE",
+    "timezone": 1,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "grade": "2",
+        "from": 8,
+        "to": 21
+      },
+      {
+        "grade": "3",
+        "from": 22,
+        "to": 31
+      },
+      {
+        "grade": "4",
+        "from": 32,
+        "to": 44
+      },
+      {
+        "grade": "5",
+        "from": 45,
+        "to": 56
+      },
+      {
+        "grade": "6",
+        "from": 57,
+        "to": 68
+      },
+      {
+        "grade": "7",
+        "from": 69,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "HISTORY",
+    "level": "HL",
+    "subjectOption": "HISTORY EUROPE",
+    "timezone": 2,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "grade": "2",
+        "from": 8,
+        "to": 21
+      },
+      {
+        "grade": "3",
+        "from": 22,
+        "to": 31
+      },
+      {
+        "grade": "4",
+        "from": 32,
+        "to": 44
+      },
+      {
+        "grade": "5",
+        "from": 45,
+        "to": 56
+      },
+      {
+        "grade": "6",
+        "from": 57,
+        "to": 68
+      },
+      {
+        "grade": "7",
+        "from": 69,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "HISTORY",
+    "level": "HL",
+    "subjectOption": "HISTORY AMERICAS",
+    "timezone": 1,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "grade": "2",
+        "from": 8,
+        "to": 21
+      },
+      {
+        "grade": "3",
+        "from": 22,
+        "to": 31
+      },
+      {
+        "grade": "4",
+        "from": 32,
+        "to": 44
+      },
+      {
+        "grade": "5",
+        "from": 45,
+        "to": 56
+      },
+      {
+        "grade": "6",
+        "from": 57,
+        "to": 68
+      },
+      {
+        "grade": "7",
+        "from": 69,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "HISTORY",
+    "level": "HL",
+    "subjectOption": "HISTORY AMERICAS",
+    "timezone": 2,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "grade": "2",
+        "from": 8,
+        "to": 21
+      },
+      {
+        "grade": "3",
+        "from": 22,
+        "to": 31
+      },
+      {
+        "grade": "4",
+        "from": 32,
+        "to": 44
+      },
+      {
+        "grade": "5",
+        "from": 45,
+        "to": 56
+      },
+      {
+        "grade": "6",
+        "from": 57,
+        "to": 68
+      },
+      {
+        "grade": "7",
+        "from": 69,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "HISTORY",
+    "level": "HL",
+    "subjectOption": "HISTORY ASIA AND OCEANIA",
+    "timezone": 1,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "grade": "2",
+        "from": 8,
+        "to": 21
+      },
+      {
+        "grade": "3",
+        "from": 22,
+        "to": 31
+      },
+      {
+        "grade": "4",
+        "from": 32,
+        "to": 44
+      },
+      {
+        "grade": "5",
+        "from": 45,
+        "to": 56
+      },
+      {
+        "grade": "6",
+        "from": 57,
+        "to": 68
+      },
+      {
+        "grade": "7",
+        "from": 69,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "HISTORY",
+    "level": "HL",
+    "subjectOption": "HISTORY ASIA AND OCEANIA",
+    "timezone": 2,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "grade": "2",
+        "from": 8,
+        "to": 21
+      },
+      {
+        "grade": "3",
+        "from": 22,
+        "to": 31
+      },
+      {
+        "grade": "4",
+        "from": 32,
+        "to": 44
+      },
+      {
+        "grade": "5",
+        "from": 45,
+        "to": 56
+      },
+      {
+        "grade": "6",
+        "from": 57,
+        "to": 68
+      },
+      {
+        "grade": "7",
+        "from": 69,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "HISTORY",
+    "level": "HL",
+    "subjectOption": "HISTORY AFRICA AND MIDDLE EAST",
+    "timezone": 1,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "grade": "2",
+        "from": 8,
+        "to": 21
+      },
+      {
+        "grade": "3",
+        "from": 22,
+        "to": 31
+      },
+      {
+        "grade": "4",
+        "from": 32,
+        "to": 44
+      },
+      {
+        "grade": "5",
+        "from": 45,
+        "to": 56
+      },
+      {
+        "grade": "6",
+        "from": 57,
+        "to": 68
+      },
+      {
+        "grade": "7",
+        "from": 69,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "HISTORY",
+    "level": "HL",
+    "subjectOption": "HISTORY AFRICA AND MIDDLE EAST",
+    "timezone": 2,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "grade": "2",
+        "from": 8,
+        "to": 21
+      },
+      {
+        "grade": "3",
+        "from": 22,
+        "to": 31
+      },
+      {
+        "grade": "4",
+        "from": 32,
+        "to": 44
+      },
+      {
+        "grade": "5",
+        "from": 45,
+        "to": 56
+      },
+      {
+        "grade": "6",
+        "from": 57,
+        "to": 68
+      },
+      {
+        "grade": "7",
+        "from": 69,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "PHYSICS",
+    "level": "HL",
+    "subjectOption": "PHYSICS",
+    "timezone": 1,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 11
+      },
+      {
+        "grade": "2",
+        "from": 12,
+        "to": 17
+      },
+      {
+        "grade": "3",
+        "from": 18,
+        "to": 24
+      },
+      {
+        "grade": "4",
+        "from": 25,
+        "to": 35
+      },
+      {
+        "grade": "5",
+        "from": 36,
+        "to": 51
+      },
+      {
+        "grade": "6",
+        "from": 52,
+        "to": 68
+      },
+      {
+        "grade": "7",
+        "from": 69,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "PHYSICS",
+    "level": "HL",
+    "subjectOption": "PHYSICS",
+    "timezone": 2,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 13
+      },
+      {
+        "grade": "2",
+        "from": 14,
+        "to": 19
+      },
+      {
+        "grade": "3",
+        "from": 20,
+        "to": 28
+      },
+      {
+        "grade": "4",
+        "from": 29,
+        "to": 38
+      },
+      {
+        "grade": "5",
+        "from": 39,
+        "to": 53
+      },
+      {
+        "grade": "6",
+        "from": 54,
+        "to": 68
+      },
+      {
+        "grade": "7",
+        "from": 69,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "PHYSICS",
+    "level": "SL",
+    "subjectOption": "PHYSICS",
+    "timezone": 1,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 11
+      },
+      {
+        "grade": "2",
+        "from": 12,
+        "to": 17
+      },
+      {
+        "grade": "3",
+        "from": 18,
+        "to": 24
+      },
+      {
+        "grade": "4",
+        "from": 25,
+        "to": 33
+      },
+      {
+        "grade": "5",
+        "from": 34,
+        "to": 47
+      },
+      {
+        "grade": "6",
+        "from": 48,
+        "to": 61
+      },
+      {
+        "grade": "7",
+        "from": 62,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "PHYSICS",
+    "level": "SL",
+    "subjectOption": "PHYSICS",
+    "timezone": 2,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 14
+      },
+      {
+        "grade": "3",
+        "from": 15,
+        "to": 25
+      },
+      {
+        "grade": "4",
+        "from": 26,
+        "to": 36
+      },
+      {
+        "grade": "5",
+        "from": 37,
+        "to": 49
+      },
+      {
+        "grade": "6",
+        "from": 50,
+        "to": 62
+      },
+      {
+        "grade": "7",
+        "from": 63,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "THEATRE",
+    "level": "HL",
+    "subjectOption": "THEATRE",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "grade": "2",
+        "from": 7,
+        "to": 13
+      },
+      {
+        "grade": "3",
+        "from": 14,
+        "to": 25
+      },
+      {
+        "grade": "4",
+        "from": 26,
+        "to": 42
+      },
+      {
+        "grade": "5",
+        "from": 43,
+        "to": 61
+      },
+      {
+        "grade": "6",
+        "from": 62,
+        "to": 78
+      },
+      {
+        "grade": "7",
+        "from": 79,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "THEATRE",
+    "level": "SL",
+    "subjectOption": "THEATRE",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "grade": "2",
+        "from": 7,
+        "to": 12
+      },
+      {
+        "grade": "3",
+        "from": 13,
+        "to": 22
+      },
+      {
+        "grade": "4",
+        "from": 23,
+        "to": 41
+      },
+      {
+        "grade": "5",
+        "from": 42,
+        "to": 58
+      },
+      {
+        "grade": "6",
+        "from": 59,
+        "to": 77
+      },
+      {
+        "grade": "7",
+        "from": 78,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ARABIC B",
+    "level": "HL",
+    "subjectOption": "ARABIC B",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 16
+      },
+      {
+        "grade": "2",
+        "from": 17,
+        "to": 32
+      },
+      {
+        "grade": "3",
+        "from": 33,
+        "to": 43
+      },
+      {
+        "grade": "4",
+        "from": 44,
+        "to": 55
+      },
+      {
+        "grade": "5",
+        "from": 56,
+        "to": 68
+      },
+      {
+        "grade": "6",
+        "from": 69,
+        "to": 81
+      },
+      {
+        "grade": "7",
+        "from": 82,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ARABIC B",
+    "level": "SL",
+    "subjectOption": "ARABIC B",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 11
+      },
+      {
+        "grade": "2",
+        "from": 12,
+        "to": 23
+      },
+      {
+        "grade": "3",
+        "from": 24,
+        "to": 34
+      },
+      {
+        "grade": "4",
+        "from": 35,
+        "to": 46
+      },
+      {
+        "grade": "5",
+        "from": 47,
+        "to": 62
+      },
+      {
+        "grade": "6",
+        "from": 63,
+        "to": 76
+      },
+      {
+        "grade": "7",
+        "from": 77,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "DANISH B",
+    "level": "HL",
+    "subjectOption": "DANISH B",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 8
+      },
+      {
+        "grade": "2",
+        "from": 9,
+        "to": 17
+      },
+      {
+        "grade": "3",
+        "from": 18,
+        "to": 38
+      },
+      {
+        "grade": "4",
+        "from": 39,
+        "to": 53
+      },
+      {
+        "grade": "5",
+        "from": 54,
+        "to": 67
+      },
+      {
+        "grade": "6",
+        "from": 68,
+        "to": 82
+      },
+      {
+        "grade": "7",
+        "from": 83,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "FRENCH B",
+    "level": "HL",
+    "subjectOption": "FRENCH B",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 10
+      },
+      {
+        "grade": "2",
+        "from": 11,
+        "to": 21
+      },
+      {
+        "grade": "3",
+        "from": 22,
+        "to": 39
+      },
+      {
+        "grade": "4",
+        "from": 40,
+        "to": 51
+      },
+      {
+        "grade": "5",
+        "from": 52,
+        "to": 63
+      },
+      {
+        "grade": "6",
+        "from": 64,
+        "to": 76
+      },
+      {
+        "grade": "7",
+        "from": 77,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "FRENCH B",
+    "level": "SL",
+    "subjectOption": "FRENCH B",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 20
+      },
+      {
+        "grade": "3",
+        "from": 21,
+        "to": 32
+      },
+      {
+        "grade": "4",
+        "from": 33,
+        "to": 48
+      },
+      {
+        "grade": "5",
+        "from": 49,
+        "to": 64
+      },
+      {
+        "grade": "6",
+        "from": 65,
+        "to": 79
+      },
+      {
+        "grade": "7",
+        "from": 80,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "GERMAN B",
+    "level": "HL",
+    "subjectOption": "GERMAN B",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "grade": "2",
+        "from": 13,
+        "to": 24
+      },
+      {
+        "grade": "3",
+        "from": 25,
+        "to": 34
+      },
+      {
+        "grade": "4",
+        "from": 35,
+        "to": 51
+      },
+      {
+        "grade": "5",
+        "from": 52,
+        "to": 69
+      },
+      {
+        "grade": "6",
+        "from": 70,
+        "to": 85
+      },
+      {
+        "grade": "7",
+        "from": 86,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "GERMAN B",
+    "level": "SL",
+    "subjectOption": "GERMAN B",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "grade": "2",
+        "from": 7,
+        "to": 14
+      },
+      {
+        "grade": "3",
+        "from": 15,
+        "to": 25
+      },
+      {
+        "grade": "4",
+        "from": 26,
+        "to": 40
+      },
+      {
+        "grade": "5",
+        "from": 41,
+        "to": 58
+      },
+      {
+        "grade": "6",
+        "from": 59,
+        "to": 74
+      },
+      {
+        "grade": "7",
+        "from": 75,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "CHEMISTRY",
+    "level": "HL",
+    "subjectOption": "CHEMISTRY",
+    "timezone": 1,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "grade": "2",
+        "from": 5,
+        "to": 14
+      },
+      {
+        "grade": "3",
+        "from": 15,
+        "to": 30
+      },
+      {
+        "grade": "4",
+        "from": 31,
+        "to": 41
+      },
+      {
+        "grade": "5",
+        "from": 42,
+        "to": 55
+      },
+      {
+        "grade": "6",
+        "from": 56,
+        "to": 72
+      },
+      {
+        "grade": "7",
+        "from": 73,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "CHEMISTRY",
+    "level": "HL",
+    "subjectOption": "CHEMISTRY",
+    "timezone": 2,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 14
+      },
+      {
+        "grade": "2",
+        "from": 15,
+        "to": 19
+      },
+      {
+        "grade": "3",
+        "from": 20,
+        "to": 34
+      },
+      {
+        "grade": "4",
+        "from": 35,
+        "to": 49
+      },
+      {
+        "grade": "5",
+        "from": 50,
+        "to": 66
+      },
+      {
+        "grade": "6",
+        "from": 67,
+        "to": 79
+      },
+      {
+        "grade": "7",
+        "from": 80,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "CHEMISTRY",
+    "level": "SL",
+    "subjectOption": "CHEMISTRY",
+    "timezone": 1,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "grade": "2",
+        "from": 7,
+        "to": 13
+      },
+      {
+        "grade": "3",
+        "from": 14,
+        "to": 26
+      },
+      {
+        "grade": "4",
+        "from": 27,
+        "to": 41
+      },
+      {
+        "grade": "5",
+        "from": 42,
+        "to": 54
+      },
+      {
+        "grade": "6",
+        "from": 55,
+        "to": 71
+      },
+      {
+        "grade": "7",
+        "from": 72,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "CHEMISTRY",
+    "level": "SL",
+    "subjectOption": "CHEMISTRY",
+    "timezone": 2,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "grade": "2",
+        "from": 5,
+        "to": 9
+      },
+      {
+        "grade": "3",
+        "from": 10,
+        "to": 23
+      },
+      {
+        "grade": "4",
+        "from": 24,
+        "to": 45
+      },
+      {
+        "grade": "5",
+        "from": 46,
+        "to": 60
+      },
+      {
+        "grade": "6",
+        "from": 61,
+        "to": 75
+      },
+      {
+        "grade": "7",
+        "from": 76,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "CHINESE B",
+    "level": "HL",
+    "subjectOption": "CHINESE B - MANDARIN",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 8
+      },
+      {
+        "grade": "2",
+        "from": 9,
+        "to": 15
+      },
+      {
+        "grade": "3",
+        "from": 16,
+        "to": 31
+      },
+      {
+        "grade": "4",
+        "from": 32,
+        "to": 43
+      },
+      {
+        "grade": "5",
+        "from": 44,
+        "to": 56
+      },
+      {
+        "grade": "6",
+        "from": 57,
+        "to": 77
+      },
+      {
+        "grade": "7",
+        "from": 78,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "CHINESE B",
+    "level": "SL",
+    "subjectOption": "CHINESE B - MANDARIN",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "grade": "2",
+        "from": 8,
+        "to": 14
+      },
+      {
+        "grade": "3",
+        "from": 15,
+        "to": 29
+      },
+      {
+        "grade": "4",
+        "from": 30,
+        "to": 40
+      },
+      {
+        "grade": "5",
+        "from": 41,
+        "to": 53
+      },
+      {
+        "grade": "6",
+        "from": 54,
+        "to": 75
+      },
+      {
+        "grade": "7",
+        "from": 76,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ECONOMICS",
+    "level": "HL",
+    "subjectOption": "ECONOMICS",
+    "timezone": 1,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 19
+      },
+      {
+        "grade": "3",
+        "from": 20,
+        "to": 26
+      },
+      {
+        "grade": "4",
+        "from": 27,
+        "to": 38
+      },
+      {
+        "grade": "5",
+        "from": 39,
+        "to": 52
+      },
+      {
+        "grade": "6",
+        "from": 53,
+        "to": 64
+      },
+      {
+        "grade": "7",
+        "from": 65,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ECONOMICS",
+    "level": "HL",
+    "subjectOption": "ECONOMICS",
+    "timezone": 2,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 8
+      },
+      {
+        "grade": "2",
+        "from": 9,
+        "to": 17
+      },
+      {
+        "grade": "3",
+        "from": 18,
+        "to": 26
+      },
+      {
+        "grade": "4",
+        "from": 27,
+        "to": 39
+      },
+      {
+        "grade": "5",
+        "from": 40,
+        "to": 53
+      },
+      {
+        "grade": "6",
+        "from": 54,
+        "to": 66
+      },
+      {
+        "grade": "7",
+        "from": 67,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ECONOMICS",
+    "level": "SL",
+    "subjectOption": "ECONOMICS",
+    "timezone": 1,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 8
+      },
+      {
+        "grade": "2",
+        "from": 9,
+        "to": 18
+      },
+      {
+        "grade": "3",
+        "from": 19,
+        "to": 28
+      },
+      {
+        "grade": "4",
+        "from": 29,
+        "to": 42
+      },
+      {
+        "grade": "5",
+        "from": 43,
+        "to": 56
+      },
+      {
+        "grade": "6",
+        "from": 57,
+        "to": 70
+      },
+      {
+        "grade": "7",
+        "from": 71,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ECONOMICS",
+    "level": "SL",
+    "subjectOption": "ECONOMICS",
+    "timezone": 2,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 19
+      },
+      {
+        "grade": "3",
+        "from": 20,
+        "to": 30
+      },
+      {
+        "grade": "4",
+        "from": 31,
+        "to": 43
+      },
+      {
+        "grade": "5",
+        "from": 44,
+        "to": 58
+      },
+      {
+        "grade": "6",
+        "from": 59,
+        "to": 71
+      },
+      {
+        "grade": "7",
+        "from": 72,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ENGLISH B",
+    "level": "HL",
+    "subjectOption": "ENGLISH B",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "grade": "2",
+        "from": 13,
+        "to": 26
+      },
+      {
+        "grade": "3",
+        "from": 27,
+        "to": 39
+      },
+      {
+        "grade": "4",
+        "from": 40,
+        "to": 54
+      },
+      {
+        "grade": "5",
+        "from": 55,
+        "to": 68
+      },
+      {
+        "grade": "6",
+        "from": 69,
+        "to": 82
+      },
+      {
+        "grade": "7",
+        "from": 83,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ENGLISH B",
+    "level": "SL",
+    "subjectOption": "ENGLISH B",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 20
+      },
+      {
+        "grade": "3",
+        "from": 21,
+        "to": 34
+      },
+      {
+        "grade": "4",
+        "from": 35,
+        "to": 50
+      },
+      {
+        "grade": "5",
+        "from": 51,
+        "to": 68
+      },
+      {
+        "grade": "6",
+        "from": 69,
+        "to": 84
+      },
+      {
+        "grade": "7",
+        "from": 85,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "GEOGRAPHY",
+    "level": "HL",
+    "subjectOption": "GEOGRAPHY",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "grade": "2",
+        "from": 13,
+        "to": 25
+      },
+      {
+        "grade": "3",
+        "from": 26,
+        "to": 37
+      },
+      {
+        "grade": "4",
+        "from": 38,
+        "to": 47
+      },
+      {
+        "grade": "5",
+        "from": 48,
+        "to": 60
+      },
+      {
+        "grade": "6",
+        "from": 61,
+        "to": 70
+      },
+      {
+        "grade": "7",
+        "from": 71,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "GEOGRAPHY",
+    "level": "SL",
+    "subjectOption": "GEOGRAPHY",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 8
+      },
+      {
+        "grade": "2",
+        "from": 9,
+        "to": 17
+      },
+      {
+        "grade": "3",
+        "from": 18,
+        "to": 29
+      },
+      {
+        "grade": "4",
+        "from": 30,
+        "to": 43
+      },
+      {
+        "grade": "5",
+        "from": 44,
+        "to": 59
+      },
+      {
+        "grade": "6",
+        "from": 60,
+        "to": 73
+      },
+      {
+        "grade": "7",
+        "from": 74,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "GLOB.POL",
+    "level": "HL",
+    "subjectOption": "GLOBAL POLITICS",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 19
+      },
+      {
+        "grade": "3",
+        "from": 20,
+        "to": 28
+      },
+      {
+        "grade": "4",
+        "from": 29,
+        "to": 39
+      },
+      {
+        "grade": "5",
+        "from": 40,
+        "to": 50
+      },
+      {
+        "grade": "6",
+        "from": 51,
+        "to": 61
+      },
+      {
+        "grade": "7",
+        "from": 62,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "GLOB.POL",
+    "level": "SL",
+    "subjectOption": "GLOBAL POLITICS",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "grade": "2",
+        "from": 7,
+        "to": 18
+      },
+      {
+        "grade": "3",
+        "from": 19,
+        "to": 28
+      },
+      {
+        "grade": "4",
+        "from": 29,
+        "to": 37
+      },
+      {
+        "grade": "5",
+        "from": 38,
+        "to": 48
+      },
+      {
+        "grade": "6",
+        "from": 49,
+        "to": 58
+      },
+      {
+        "grade": "7",
+        "from": 59,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ITALIAN B",
+    "level": "HL",
+    "subjectOption": "ITALIAN B",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "grade": "2",
+        "from": 13,
+        "to": 26
+      },
+      {
+        "grade": "3",
+        "from": 27,
+        "to": 37
+      },
+      {
+        "grade": "4",
+        "from": 38,
+        "to": 51
+      },
+      {
+        "grade": "5",
+        "from": 52,
+        "to": 63
+      },
+      {
+        "grade": "6",
+        "from": 64,
+        "to": 77
+      },
+      {
+        "grade": "7",
+        "from": 78,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ITALIAN B",
+    "level": "SL",
+    "subjectOption": "ITALIAN B",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "grade": "2",
+        "from": 7,
+        "to": 14
+      },
+      {
+        "grade": "3",
+        "from": 15,
+        "to": 27
+      },
+      {
+        "grade": "4",
+        "from": 28,
+        "to": 43
+      },
+      {
+        "grade": "5",
+        "from": 44,
+        "to": 61
+      },
+      {
+        "grade": "6",
+        "from": 62,
+        "to": 77
+      },
+      {
+        "grade": "7",
+        "from": 78,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "MATH APPS",
+    "level": "HL",
+    "subjectOption": "MATHEMATICS APPLICATIONS AND INTERP",
+    "timezone": 1,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "grade": "2",
+        "from": 5,
+        "to": 11
+      },
+      {
+        "grade": "3",
+        "from": 12,
+        "to": 22
+      },
+      {
+        "grade": "4",
+        "from": 23,
+        "to": 33
+      },
+      {
+        "grade": "5",
+        "from": 34,
+        "to": 47
+      },
+      {
+        "grade": "6",
+        "from": 48,
+        "to": 61
+      },
+      {
+        "grade": "7",
+        "from": 62,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "MATH APPS",
+    "level": "HL",
+    "subjectOption": "MATHEMATICS APPLICATIONS AND INTERP",
+    "timezone": 2,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "grade": "2",
+        "from": 4,
+        "to": 9
+      },
+      {
+        "grade": "3",
+        "from": 10,
+        "to": 18
+      },
+      {
+        "grade": "4",
+        "from": 19,
+        "to": 32
+      },
+      {
+        "grade": "5",
+        "from": 33,
+        "to": 46
+      },
+      {
+        "grade": "6",
+        "from": 47,
+        "to": 61
+      },
+      {
+        "grade": "7",
+        "from": 62,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "MATH APPS",
+    "level": "SL",
+    "subjectOption": "MATHEMATICS APPLICATIONS AND INTERP",
+    "timezone": 1,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "grade": "2",
+        "from": 6,
+        "to": 12
+      },
+      {
+        "grade": "3",
+        "from": 13,
+        "to": 22
+      },
+      {
+        "grade": "4",
+        "from": 23,
+        "to": 34
+      },
+      {
+        "grade": "5",
+        "from": 35,
+        "to": 49
+      },
+      {
+        "grade": "6",
+        "from": 50,
+        "to": 66
+      },
+      {
+        "grade": "7",
+        "from": 67,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "MATH APPS",
+    "level": "SL",
+    "subjectOption": "MATHEMATICS APPLICATIONS AND INTERP",
+    "timezone": 2,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "grade": "2",
+        "from": 4,
+        "to": 12
+      },
+      {
+        "grade": "3",
+        "from": 13,
+        "to": 24
+      },
+      {
+        "grade": "4",
+        "from": 25,
+        "to": 38
+      },
+      {
+        "grade": "5",
+        "from": 39,
+        "to": 54
+      },
+      {
+        "grade": "6",
+        "from": 55,
+        "to": 69
+      },
+      {
+        "grade": "7",
+        "from": 70,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "RUSSIAN B",
+    "level": "SL",
+    "subjectOption": "RUSSIAN B",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 10
+      },
+      {
+        "grade": "2",
+        "from": 11,
+        "to": 21
+      },
+      {
+        "grade": "3",
+        "from": 22,
+        "to": 39
+      },
+      {
+        "grade": "4",
+        "from": 40,
+        "to": 53
+      },
+      {
+        "grade": "5",
+        "from": 54,
+        "to": 69
+      },
+      {
+        "grade": "6",
+        "from": 70,
+        "to": 84
+      },
+      {
+        "grade": "7",
+        "from": 85,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "SPANISH B",
+    "level": "HL",
+    "subjectOption": "SPANISH B",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "grade": "2",
+        "from": 7,
+        "to": 15
+      },
+      {
+        "grade": "3",
+        "from": 16,
+        "to": 29
+      },
+      {
+        "grade": "4",
+        "from": 30,
+        "to": 43
+      },
+      {
+        "grade": "5",
+        "from": 44,
+        "to": 57
+      },
+      {
+        "grade": "6",
+        "from": 58,
+        "to": 74
+      },
+      {
+        "grade": "7",
+        "from": 75,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "SPANISH B",
+    "level": "SL",
+    "subjectOption": "SPANISH B",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "grade": "2",
+        "from": 6,
+        "to": 11
+      },
+      {
+        "grade": "3",
+        "from": 12,
+        "to": 24
+      },
+      {
+        "grade": "4",
+        "from": 25,
+        "to": 40
+      },
+      {
+        "grade": "5",
+        "from": 41,
+        "to": 56
+      },
+      {
+        "grade": "6",
+        "from": 57,
+        "to": 74
+      },
+      {
+        "grade": "7",
+        "from": 75,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "SWEDISH B",
+    "level": "HL",
+    "subjectOption": "SWEDISH B",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 11
+      },
+      {
+        "grade": "2",
+        "from": 12,
+        "to": 24
+      },
+      {
+        "grade": "3",
+        "from": 25,
+        "to": 39
+      },
+      {
+        "grade": "4",
+        "from": 40,
+        "to": 52
+      },
+      {
+        "grade": "5",
+        "from": 53,
+        "to": 63
+      },
+      {
+        "grade": "6",
+        "from": 64,
+        "to": 80
+      },
+      {
+        "grade": "7",
+        "from": 81,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "SWEDISH B",
+    "level": "SL",
+    "subjectOption": "SWEDISH B",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 13
+      },
+      {
+        "grade": "2",
+        "from": 14,
+        "to": 24
+      },
+      {
+        "grade": "3",
+        "from": 25,
+        "to": 36
+      },
+      {
+        "grade": "4",
+        "from": 37,
+        "to": 51
+      },
+      {
+        "grade": "5",
+        "from": 52,
+        "to": 66
+      },
+      {
+        "grade": "6",
+        "from": 67,
+        "to": 81
+      },
+      {
+        "grade": "7",
+        "from": 82,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ARABIC AB.",
+    "level": "SL",
+    "subjectOption": "ARABIC AB.",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "grade": "2",
+        "from": 13,
+        "to": 24
+      },
+      {
+        "grade": "3",
+        "from": 25,
+        "to": 34
+      },
+      {
+        "grade": "4",
+        "from": 35,
+        "to": 46
+      },
+      {
+        "grade": "5",
+        "from": 47,
+        "to": 58
+      },
+      {
+        "grade": "6",
+        "from": 59,
+        "to": 70
+      },
+      {
+        "grade": "7",
+        "from": 71,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "FRENCH AB.",
+    "level": "SL",
+    "subjectOption": "FRENCH AB.",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 10
+      },
+      {
+        "grade": "2",
+        "from": 11,
+        "to": 22
+      },
+      {
+        "grade": "3",
+        "from": 23,
+        "to": 36
+      },
+      {
+        "grade": "4",
+        "from": 37,
+        "to": 52
+      },
+      {
+        "grade": "5",
+        "from": 53,
+        "to": 65
+      },
+      {
+        "grade": "6",
+        "from": 66,
+        "to": 81
+      },
+      {
+        "grade": "7",
+        "from": 82,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "GERMAN AB.",
+    "level": "SL",
+    "subjectOption": "GERMAN AB.",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "grade": "2",
+        "from": 8,
+        "to": 19
+      },
+      {
+        "grade": "3",
+        "from": 20,
+        "to": 37
+      },
+      {
+        "grade": "4",
+        "from": 38,
+        "to": 52
+      },
+      {
+        "grade": "5",
+        "from": 53,
+        "to": 65
+      },
+      {
+        "grade": "6",
+        "from": 66,
+        "to": 79
+      },
+      {
+        "grade": "7",
+        "from": 80,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "JAPANESE B",
+    "level": "SL",
+    "subjectOption": "JAPANESE B",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "grade": "2",
+        "from": 5,
+        "to": 11
+      },
+      {
+        "grade": "3",
+        "from": 12,
+        "to": 20
+      },
+      {
+        "grade": "4",
+        "from": 21,
+        "to": 38
+      },
+      {
+        "grade": "5",
+        "from": 39,
+        "to": 56
+      },
+      {
+        "grade": "6",
+        "from": 57,
+        "to": 74
+      },
+      {
+        "grade": "7",
+        "from": 75,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "PHILOSOPHY",
+    "level": "HL",
+    "subjectOption": "PHILOSOPHY",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 10
+      },
+      {
+        "grade": "2",
+        "from": 11,
+        "to": 25
+      },
+      {
+        "grade": "3",
+        "from": 26,
+        "to": 33
+      },
+      {
+        "grade": "4",
+        "from": 34,
+        "to": 49
+      },
+      {
+        "grade": "5",
+        "from": 50,
+        "to": 60
+      },
+      {
+        "grade": "6",
+        "from": 61,
+        "to": 74
+      },
+      {
+        "grade": "7",
+        "from": 75,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "PHILOSOPHY",
+    "level": "SL",
+    "subjectOption": "PHILOSOPHY",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "grade": "2",
+        "from": 13,
+        "to": 24
+      },
+      {
+        "grade": "3",
+        "from": 25,
+        "to": 31
+      },
+      {
+        "grade": "4",
+        "from": 32,
+        "to": 43
+      },
+      {
+        "grade": "5",
+        "from": 44,
+        "to": 58
+      },
+      {
+        "grade": "6",
+        "from": 59,
+        "to": 73
+      },
+      {
+        "grade": "7",
+        "from": 74,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "PSYCHOLOGY",
+    "level": "HL",
+    "subjectOption": "PSYCHOLOGY",
+    "timezone": 1,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "grade": "2",
+        "from": 7,
+        "to": 12
+      },
+      {
+        "grade": "3",
+        "from": 13,
+        "to": 24
+      },
+      {
+        "grade": "4",
+        "from": 25,
+        "to": 38
+      },
+      {
+        "grade": "5",
+        "from": 39,
+        "to": 50
+      },
+      {
+        "grade": "6",
+        "from": 51,
+        "to": 64
+      },
+      {
+        "grade": "7",
+        "from": 65,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "PSYCHOLOGY",
+    "level": "HL",
+    "subjectOption": "PSYCHOLOGY",
+    "timezone": 2,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "grade": "2",
+        "from": 8,
+        "to": 16
+      },
+      {
+        "grade": "3",
+        "from": 17,
+        "to": 28
+      },
+      {
+        "grade": "4",
+        "from": 29,
+        "to": 41
+      },
+      {
+        "grade": "5",
+        "from": 42,
+        "to": 52
+      },
+      {
+        "grade": "6",
+        "from": 53,
+        "to": 65
+      },
+      {
+        "grade": "7",
+        "from": 66,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "PSYCHOLOGY",
+    "level": "SL",
+    "subjectOption": "PSYCHOLOGY",
+    "timezone": 1,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "grade": "2",
+        "from": 6,
+        "to": 12
+      },
+      {
+        "grade": "3",
+        "from": 13,
+        "to": 19
+      },
+      {
+        "grade": "4",
+        "from": 20,
+        "to": 35
+      },
+      {
+        "grade": "5",
+        "from": 36,
+        "to": 50
+      },
+      {
+        "grade": "6",
+        "from": 51,
+        "to": 65
+      },
+      {
+        "grade": "7",
+        "from": 66,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "PSYCHOLOGY",
+    "level": "SL",
+    "subjectOption": "PSYCHOLOGY",
+    "timezone": 2,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "grade": "2",
+        "from": 6,
+        "to": 11
+      },
+      {
+        "grade": "3",
+        "from": 12,
+        "to": 18
+      },
+      {
+        "grade": "4",
+        "from": 19,
+        "to": 35
+      },
+      {
+        "grade": "5",
+        "from": 36,
+        "to": 49
+      },
+      {
+        "grade": "6",
+        "from": 50,
+        "to": 65
+      },
+      {
+        "grade": "7",
+        "from": 66,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ART HISTORY",
+    "level": "SL",
+    "subjectOption": "ART HISTORY",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 10
+      },
+      {
+        "grade": "2",
+        "from": 11,
+        "to": 21
+      },
+      {
+        "grade": "3",
+        "from": 22,
+        "to": 31
+      },
+      {
+        "grade": "4",
+        "from": 32,
+        "to": 45
+      },
+      {
+        "grade": "5",
+        "from": 46,
+        "to": 61
+      },
+      {
+        "grade": "6",
+        "from": 62,
+        "to": 74
+      },
+      {
+        "grade": "7",
+        "from": 75,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "DUTCH A LAL",
+    "level": "HL",
+    "subjectOption": "DUTCH A: Lang and Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "grade": "2",
+        "from": 13,
+        "to": 25
+      },
+      {
+        "grade": "3",
+        "from": 26,
+        "to": 37
+      },
+      {
+        "grade": "4",
+        "from": 38,
+        "to": 49
+      },
+      {
+        "grade": "5",
+        "from": 50,
+        "to": 61
+      },
+      {
+        "grade": "6",
+        "from": 62,
+        "to": 73
+      },
+      {
+        "grade": "7",
+        "from": 74,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "DUTCH A LAL",
+    "level": "SL",
+    "subjectOption": "DUTCH A: Lang and Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 22
+      },
+      {
+        "grade": "3",
+        "from": 23,
+        "to": 34
+      },
+      {
+        "grade": "4",
+        "from": 35,
+        "to": 45
+      },
+      {
+        "grade": "5",
+        "from": 46,
+        "to": 56
+      },
+      {
+        "grade": "6",
+        "from": 57,
+        "to": 67
+      },
+      {
+        "grade": "7",
+        "from": 68,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ENGLISH AB.",
+    "level": "SL",
+    "subjectOption": "ENGLISH AB.",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 13
+      },
+      {
+        "grade": "2",
+        "from": 14,
+        "to": 30
+      },
+      {
+        "grade": "3",
+        "from": 31,
+        "to": 46
+      },
+      {
+        "grade": "4",
+        "from": 47,
+        "to": 60
+      },
+      {
+        "grade": "5",
+        "from": 61,
+        "to": 72
+      },
+      {
+        "grade": "6",
+        "from": 73,
+        "to": 85
+      },
+      {
+        "grade": "7",
+        "from": 86,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ITALIAN AB.",
+    "level": "SL",
+    "subjectOption": "ITALIAN AB.",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 8
+      },
+      {
+        "grade": "2",
+        "from": 9,
+        "to": 20
+      },
+      {
+        "grade": "3",
+        "from": 21,
+        "to": 41
+      },
+      {
+        "grade": "4",
+        "from": 42,
+        "to": 55
+      },
+      {
+        "grade": "5",
+        "from": 56,
+        "to": 68
+      },
+      {
+        "grade": "6",
+        "from": 69,
+        "to": 82
+      },
+      {
+        "grade": "7",
+        "from": 83,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "MALAY A LIT",
+    "level": "SL",
+    "subjectOption": "MALAY A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "grade": "2",
+        "from": 13,
+        "to": 27
+      },
+      {
+        "grade": "3",
+        "from": 28,
+        "to": 45
+      },
+      {
+        "grade": "4",
+        "from": 46,
+        "to": 56
+      },
+      {
+        "grade": "5",
+        "from": 57,
+        "to": 70
+      },
+      {
+        "grade": "6",
+        "from": 71,
+        "to": 81
+      },
+      {
+        "grade": "7",
+        "from": 82,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "MARINE SCI.",
+    "level": "SL",
+    "subjectOption": "MARINE SCIENCE",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 8
+      },
+      {
+        "grade": "2",
+        "from": 9,
+        "to": 16
+      },
+      {
+        "grade": "3",
+        "from": 17,
+        "to": 28
+      },
+      {
+        "grade": "4",
+        "from": 29,
+        "to": 37
+      },
+      {
+        "grade": "5",
+        "from": 38,
+        "to": 48
+      },
+      {
+        "grade": "6",
+        "from": 49,
+        "to": 61
+      },
+      {
+        "grade": "7",
+        "from": 62,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "NORWEGIAN B",
+    "level": "HL",
+    "subjectOption": "NORWEGIAN B",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 10
+      },
+      {
+        "grade": "2",
+        "from": 11,
+        "to": 21
+      },
+      {
+        "grade": "3",
+        "from": 22,
+        "to": 34
+      },
+      {
+        "grade": "4",
+        "from": 35,
+        "to": 49
+      },
+      {
+        "grade": "5",
+        "from": 50,
+        "to": 64
+      },
+      {
+        "grade": "6",
+        "from": 65,
+        "to": 80
+      },
+      {
+        "grade": "7",
+        "from": 81,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "REF PROJECT",
+    "level": "HL",
+    "subjectOption": "REF PROJECT",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "E",
+        "from": 0,
+        "to": 10
+      },
+      {
+        "grade": "D",
+        "from": 11,
+        "to": 16
+      },
+      {
+        "grade": "C",
+        "from": 17,
+        "to": 22
+      },
+      {
+        "grade": "B",
+        "from": 23,
+        "to": 26
+      },
+      {
+        "grade": "A",
+        "from": 27,
+        "to": 36
+      }
+    ]
+  },
+  {
+    "subject": "RUSSIAN AB.",
+    "level": "SL",
+    "subjectOption": "RUSSIAN AB.",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 23
+      },
+      {
+        "grade": "3",
+        "from": 24,
+        "to": 37
+      },
+      {
+        "grade": "4",
+        "from": 38,
+        "to": 48
+      },
+      {
+        "grade": "5",
+        "from": 49,
+        "to": 57
+      },
+      {
+        "grade": "6",
+        "from": 58,
+        "to": 70
+      },
+      {
+        "grade": "7",
+        "from": 71,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "SPANISH AB.",
+    "level": "SL",
+    "subjectOption": "SPANISH AB.",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 11
+      },
+      {
+        "grade": "2",
+        "from": 12,
+        "to": 22
+      },
+      {
+        "grade": "3",
+        "from": 23,
+        "to": 34
+      },
+      {
+        "grade": "4",
+        "from": 35,
+        "to": 49
+      },
+      {
+        "grade": "5",
+        "from": 50,
+        "to": 62
+      },
+      {
+        "grade": "6",
+        "from": 63,
+        "to": 77
+      },
+      {
+        "grade": "7",
+        "from": 78,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "SWEDISH AB.",
+    "level": "SL",
+    "subjectOption": "SWEDISH AB.",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "grade": "2",
+        "from": 8,
+        "to": 19
+      },
+      {
+        "grade": "3",
+        "from": 20,
+        "to": 31
+      },
+      {
+        "grade": "4",
+        "from": 32,
+        "to": 42
+      },
+      {
+        "grade": "5",
+        "from": 43,
+        "to": 58
+      },
+      {
+        "grade": "6",
+        "from": 59,
+        "to": 71
+      },
+      {
+        "grade": "7",
+        "from": 72,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "VISUAL ARTS",
+    "level": "HL",
+    "subjectOption": "VISUAL ARTS",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "grade": "2",
+        "from": 8,
+        "to": 17
+      },
+      {
+        "grade": "3",
+        "from": 18,
+        "to": 33
+      },
+      {
+        "grade": "4",
+        "from": 34,
+        "to": 47
+      },
+      {
+        "grade": "5",
+        "from": 48,
+        "to": 62
+      },
+      {
+        "grade": "6",
+        "from": 63,
+        "to": 76
+      },
+      {
+        "grade": "7",
+        "from": 77,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "VISUAL ARTS",
+    "level": "SL",
+    "subjectOption": "VISUAL ARTS",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 8
+      },
+      {
+        "grade": "2",
+        "from": 9,
+        "to": 17
+      },
+      {
+        "grade": "3",
+        "from": 18,
+        "to": 31
+      },
+      {
+        "grade": "4",
+        "from": 32,
+        "to": 45
+      },
+      {
+        "grade": "5",
+        "from": 46,
+        "to": 62
+      },
+      {
+        "grade": "6",
+        "from": 63,
+        "to": 76
+      },
+      {
+        "grade": "7",
+        "from": 77,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ARABIC A LAL",
+    "level": "HL",
+    "subjectOption": "ARABIC A: Lang and Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 14
+      },
+      {
+        "grade": "2",
+        "from": 15,
+        "to": 25
+      },
+      {
+        "grade": "3",
+        "from": 26,
+        "to": 40
+      },
+      {
+        "grade": "4",
+        "from": 41,
+        "to": 52
+      },
+      {
+        "grade": "5",
+        "from": 53,
+        "to": 62
+      },
+      {
+        "grade": "6",
+        "from": 63,
+        "to": 73
+      },
+      {
+        "grade": "7",
+        "from": 74,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ARABIC A LAL",
+    "level": "SL",
+    "subjectOption": "ARABIC A: Lang and Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "grade": "2",
+        "from": 13,
+        "to": 24
+      },
+      {
+        "grade": "3",
+        "from": 25,
+        "to": 39
+      },
+      {
+        "grade": "4",
+        "from": 40,
+        "to": 48
+      },
+      {
+        "grade": "5",
+        "from": 49,
+        "to": 62
+      },
+      {
+        "grade": "6",
+        "from": 63,
+        "to": 73
+      },
+      {
+        "grade": "7",
+        "from": 74,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ARABIC A LIT",
+    "level": "SL",
+    "subjectOption": "ARABIC A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "grade": "2",
+        "from": 16,
+        "to": 30
+      },
+      {
+        "grade": "3",
+        "from": 31,
+        "to": 39
+      },
+      {
+        "grade": "4",
+        "from": 40,
+        "to": 48
+      },
+      {
+        "grade": "5",
+        "from": 49,
+        "to": 59
+      },
+      {
+        "grade": "6",
+        "from": 60,
+        "to": 67
+      },
+      {
+        "grade": "7",
+        "from": 68,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "COMPUTER SC.",
+    "level": "HL",
+    "subjectOption": "COMPUTER SC.",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 10
+      },
+      {
+        "grade": "2",
+        "from": 11,
+        "to": 15
+      },
+      {
+        "grade": "3",
+        "from": 16,
+        "to": 21
+      },
+      {
+        "grade": "4",
+        "from": 22,
+        "to": 34
+      },
+      {
+        "grade": "5",
+        "from": 35,
+        "to": 48
+      },
+      {
+        "grade": "6",
+        "from": 49,
+        "to": 62
+      },
+      {
+        "grade": "7",
+        "from": 63,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "COMPUTER SC.",
+    "level": "SL",
+    "subjectOption": "COMPUTER SC.",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "grade": "2",
+        "from": 6,
+        "to": 10
+      },
+      {
+        "grade": "3",
+        "from": 11,
+        "to": 26
+      },
+      {
+        "grade": "4",
+        "from": 27,
+        "to": 36
+      },
+      {
+        "grade": "5",
+        "from": 37,
+        "to": 48
+      },
+      {
+        "grade": "6",
+        "from": 49,
+        "to": 61
+      },
+      {
+        "grade": "7",
+        "from": 62,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "DANISH A LIT",
+    "level": "HL",
+    "subjectOption": "DANISH A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 14
+      },
+      {
+        "grade": "2",
+        "from": 15,
+        "to": 27
+      },
+      {
+        "grade": "3",
+        "from": 28,
+        "to": 41
+      },
+      {
+        "grade": "4",
+        "from": 42,
+        "to": 54
+      },
+      {
+        "grade": "5",
+        "from": 55,
+        "to": 65
+      },
+      {
+        "grade": "6",
+        "from": 66,
+        "to": 78
+      },
+      {
+        "grade": "7",
+        "from": 79,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "DANISH A LIT",
+    "level": "SL",
+    "subjectOption": "DANISH A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 22
+      },
+      {
+        "grade": "3",
+        "from": 23,
+        "to": 34
+      },
+      {
+        "grade": "4",
+        "from": 35,
+        "to": 48
+      },
+      {
+        "grade": "5",
+        "from": 49,
+        "to": 59
+      },
+      {
+        "grade": "6",
+        "from": 60,
+        "to": 73
+      },
+      {
+        "grade": "7",
+        "from": 74,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "DESIGN TECH.",
+    "level": "HL",
+    "subjectOption": "DESIGN TECH.",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "grade": "2",
+        "from": 7,
+        "to": 16
+      },
+      {
+        "grade": "3",
+        "from": 17,
+        "to": 27
+      },
+      {
+        "grade": "4",
+        "from": 28,
+        "to": 37
+      },
+      {
+        "grade": "5",
+        "from": 38,
+        "to": 48
+      },
+      {
+        "grade": "6",
+        "from": 49,
+        "to": 57
+      },
+      {
+        "grade": "7",
+        "from": 58,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "DESIGN TECH.",
+    "level": "SL",
+    "subjectOption": "DESIGN TECH.",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "grade": "2",
+        "from": 7,
+        "to": 18
+      },
+      {
+        "grade": "3",
+        "from": 19,
+        "to": 24
+      },
+      {
+        "grade": "4",
+        "from": 25,
+        "to": 31
+      },
+      {
+        "grade": "5",
+        "from": 32,
+        "to": 38
+      },
+      {
+        "grade": "6",
+        "from": 39,
+        "to": 45
+      },
+      {
+        "grade": "7",
+        "from": 46,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "FRENCH A LAL",
+    "level": "HL",
+    "subjectOption": "FRENCH A: Lang and Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 11
+      },
+      {
+        "grade": "2",
+        "from": 12,
+        "to": 21
+      },
+      {
+        "grade": "3",
+        "from": 22,
+        "to": 36
+      },
+      {
+        "grade": "4",
+        "from": 37,
+        "to": 51
+      },
+      {
+        "grade": "5",
+        "from": 52,
+        "to": 60
+      },
+      {
+        "grade": "6",
+        "from": 61,
+        "to": 72
+      },
+      {
+        "grade": "7",
+        "from": 73,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "FRENCH A LAL",
+    "level": "SL",
+    "subjectOption": "FRENCH A: Lang and Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 22
+      },
+      {
+        "grade": "3",
+        "from": 23,
+        "to": 34
+      },
+      {
+        "grade": "4",
+        "from": 35,
+        "to": 45
+      },
+      {
+        "grade": "5",
+        "from": 46,
+        "to": 59
+      },
+      {
+        "grade": "6",
+        "from": 60,
+        "to": 73
+      },
+      {
+        "grade": "7",
+        "from": 74,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "FRENCH A LIT",
+    "level": "HL",
+    "subjectOption": "FRENCH A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "grade": "2",
+        "from": 16,
+        "to": 30
+      },
+      {
+        "grade": "3",
+        "from": 31,
+        "to": 42
+      },
+      {
+        "grade": "4",
+        "from": 43,
+        "to": 52
+      },
+      {
+        "grade": "5",
+        "from": 53,
+        "to": 64
+      },
+      {
+        "grade": "6",
+        "from": 65,
+        "to": 76
+      },
+      {
+        "grade": "7",
+        "from": 77,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "FRENCH A LIT",
+    "level": "SL",
+    "subjectOption": "FRENCH A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "grade": "2",
+        "from": 16,
+        "to": 27
+      },
+      {
+        "grade": "3",
+        "from": 28,
+        "to": 39
+      },
+      {
+        "grade": "4",
+        "from": 40,
+        "to": 56
+      },
+      {
+        "grade": "5",
+        "from": 57,
+        "to": 70
+      },
+      {
+        "grade": "6",
+        "from": 71,
+        "to": 81
+      },
+      {
+        "grade": "7",
+        "from": 82,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "FRENCH A LIT",
+    "level": "SL",
+    "subjectOption": "FRENCH A: Literature self taught",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "grade": "2",
+        "from": 16,
+        "to": 27
+      },
+      {
+        "grade": "3",
+        "from": 28,
+        "to": 39
+      },
+      {
+        "grade": "4",
+        "from": 40,
+        "to": 56
+      },
+      {
+        "grade": "5",
+        "from": 57,
+        "to": 70
+      },
+      {
+        "grade": "6",
+        "from": 71,
+        "to": 81
+      },
+      {
+        "grade": "7",
+        "from": 82,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "GERMAN A LAL",
+    "level": "HL",
+    "subjectOption": "GERMAN A: Lang and Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 14
+      },
+      {
+        "grade": "2",
+        "from": 15,
+        "to": 29
+      },
+      {
+        "grade": "3",
+        "from": 30,
+        "to": 39
+      },
+      {
+        "grade": "4",
+        "from": 40,
+        "to": 49
+      },
+      {
+        "grade": "5",
+        "from": 50,
+        "to": 62
+      },
+      {
+        "grade": "6",
+        "from": 63,
+        "to": 79
+      },
+      {
+        "grade": "7",
+        "from": 80,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "GERMAN A LAL",
+    "level": "SL",
+    "subjectOption": "GERMAN A: Lang and Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 22
+      },
+      {
+        "grade": "3",
+        "from": 23,
+        "to": 34
+      },
+      {
+        "grade": "4",
+        "from": 35,
+        "to": 45
+      },
+      {
+        "grade": "5",
+        "from": 46,
+        "to": 59
+      },
+      {
+        "grade": "6",
+        "from": 60,
+        "to": 76
+      },
+      {
+        "grade": "7",
+        "from": 77,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "GERMAN A LIT",
+    "level": "HL",
+    "subjectOption": "GERMAN A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "grade": "2",
+        "from": 16,
+        "to": 29
+      },
+      {
+        "grade": "3",
+        "from": 30,
+        "to": 39
+      },
+      {
+        "grade": "4",
+        "from": 40,
+        "to": 51
+      },
+      {
+        "grade": "5",
+        "from": 52,
+        "to": 64
+      },
+      {
+        "grade": "6",
+        "from": 65,
+        "to": 78
+      },
+      {
+        "grade": "7",
+        "from": 79,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "GERMAN A LIT",
+    "level": "SL",
+    "subjectOption": "GERMAN A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 22
+      },
+      {
+        "grade": "3",
+        "from": 23,
+        "to": 34
+      },
+      {
+        "grade": "4",
+        "from": 35,
+        "to": 45
+      },
+      {
+        "grade": "5",
+        "from": 46,
+        "to": 59
+      },
+      {
+        "grade": "6",
+        "from": 60,
+        "to": 76
+      },
+      {
+        "grade": "7",
+        "from": 77,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "INDONESIAN B",
+    "level": "HL",
+    "subjectOption": "INDONESIAN B",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 13
+      },
+      {
+        "grade": "2",
+        "from": 14,
+        "to": 25
+      },
+      {
+        "grade": "3",
+        "from": 26,
+        "to": 43
+      },
+      {
+        "grade": "4",
+        "from": 44,
+        "to": 59
+      },
+      {
+        "grade": "5",
+        "from": 60,
+        "to": 72
+      },
+      {
+        "grade": "6",
+        "from": 73,
+        "to": 88
+      },
+      {
+        "grade": "7",
+        "from": 89,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "INDONESIAN B",
+    "level": "SL",
+    "subjectOption": "INDONESIAN B",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 23
+      },
+      {
+        "grade": "2",
+        "from": 24,
+        "to": 48
+      },
+      {
+        "grade": "3",
+        "from": 49,
+        "to": 62
+      },
+      {
+        "grade": "4",
+        "from": 63,
+        "to": 71
+      },
+      {
+        "grade": "5",
+        "from": 72,
+        "to": 79
+      },
+      {
+        "grade": "6",
+        "from": 80,
+        "to": 88
+      },
+      {
+        "grade": "7",
+        "from": 89,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "JAPANESE AB.",
+    "level": "SL",
+    "subjectOption": "JAPANESE AB.",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "grade": "2",
+        "from": 7,
+        "to": 15
+      },
+      {
+        "grade": "3",
+        "from": 16,
+        "to": 24
+      },
+      {
+        "grade": "4",
+        "from": 25,
+        "to": 36
+      },
+      {
+        "grade": "5",
+        "from": 37,
+        "to": 58
+      },
+      {
+        "grade": "6",
+        "from": 59,
+        "to": 75
+      },
+      {
+        "grade": "7",
+        "from": 76,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "KOREAN A LAL",
+    "level": "HL",
+    "subjectOption": "KOREAN A: Lang and Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 11
+      },
+      {
+        "grade": "2",
+        "from": 12,
+        "to": 22
+      },
+      {
+        "grade": "3",
+        "from": 23,
+        "to": 36
+      },
+      {
+        "grade": "4",
+        "from": 37,
+        "to": 48
+      },
+      {
+        "grade": "5",
+        "from": 49,
+        "to": 56
+      },
+      {
+        "grade": "6",
+        "from": 57,
+        "to": 68
+      },
+      {
+        "grade": "7",
+        "from": 69,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "KOREAN A LAL",
+    "level": "SL",
+    "subjectOption": "KOREAN A: Lang and Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 22
+      },
+      {
+        "grade": "3",
+        "from": 23,
+        "to": 31
+      },
+      {
+        "grade": "4",
+        "from": 32,
+        "to": 45
+      },
+      {
+        "grade": "5",
+        "from": 46,
+        "to": 56
+      },
+      {
+        "grade": "6",
+        "from": 57,
+        "to": 70
+      },
+      {
+        "grade": "7",
+        "from": 71,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "KOREAN A LIT",
+    "level": "SL",
+    "subjectOption": "KOREAN A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 22
+      },
+      {
+        "grade": "3",
+        "from": 23,
+        "to": 31
+      },
+      {
+        "grade": "4",
+        "from": 32,
+        "to": 45
+      },
+      {
+        "grade": "5",
+        "from": 46,
+        "to": 59
+      },
+      {
+        "grade": "6",
+        "from": 60,
+        "to": 73
+      },
+      {
+        "grade": "7",
+        "from": 74,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "KOREAN A LIT",
+    "level": "SL",
+    "subjectOption": "KOREAN A: Literature self taught",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 22
+      },
+      {
+        "grade": "3",
+        "from": 23,
+        "to": 31
+      },
+      {
+        "grade": "4",
+        "from": 32,
+        "to": 45
+      },
+      {
+        "grade": "5",
+        "from": 46,
+        "to": 59
+      },
+      {
+        "grade": "6",
+        "from": 60,
+        "to": 73
+      },
+      {
+        "grade": "7",
+        "from": 74,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "LIT AND PERF",
+    "level": "SL",
+    "subjectOption": "LITERATURE AND PERFORMANCE",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 11
+      },
+      {
+        "grade": "2",
+        "from": 12,
+        "to": 26
+      },
+      {
+        "grade": "3",
+        "from": 27,
+        "to": 38
+      },
+      {
+        "grade": "4",
+        "from": 39,
+        "to": 52
+      },
+      {
+        "grade": "5",
+        "from": 53,
+        "to": 64
+      },
+      {
+        "grade": "6",
+        "from": 65,
+        "to": 77
+      },
+      {
+        "grade": "7",
+        "from": 78,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "MANDARIN AB.",
+    "level": "SL",
+    "subjectOption": "MANDARIN AB.",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "grade": "2",
+        "from": 7,
+        "to": 14
+      },
+      {
+        "grade": "3",
+        "from": 15,
+        "to": 23
+      },
+      {
+        "grade": "4",
+        "from": 24,
+        "to": 36
+      },
+      {
+        "grade": "5",
+        "from": 37,
+        "to": 57
+      },
+      {
+        "grade": "6",
+        "from": 58,
+        "to": 71
+      },
+      {
+        "grade": "7",
+        "from": 72,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "POLISH A LIT",
+    "level": "SL",
+    "subjectOption": "POLISH A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "grade": "2",
+        "from": 13,
+        "to": 22
+      },
+      {
+        "grade": "3",
+        "from": 23,
+        "to": 39
+      },
+      {
+        "grade": "4",
+        "from": 40,
+        "to": 51
+      },
+      {
+        "grade": "5",
+        "from": 52,
+        "to": 67
+      },
+      {
+        "grade": "6",
+        "from": 68,
+        "to": 81
+      },
+      {
+        "grade": "7",
+        "from": 82,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "PORTUGUESE B",
+    "level": "SL",
+    "subjectOption": "PORTUGUESE B",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "grade": "2",
+        "from": 13,
+        "to": 24
+      },
+      {
+        "grade": "3",
+        "from": 25,
+        "to": 36
+      },
+      {
+        "grade": "4",
+        "from": 37,
+        "to": 51
+      },
+      {
+        "grade": "5",
+        "from": 52,
+        "to": 67
+      },
+      {
+        "grade": "6",
+        "from": 68,
+        "to": 81
+      },
+      {
+        "grade": "7",
+        "from": 82,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "WORLD RELIG.",
+    "level": "SL",
+    "subjectOption": "WORLD RELIG.",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "grade": "2",
+        "from": 13,
+        "to": 23
+      },
+      {
+        "grade": "3",
+        "from": 24,
+        "to": 39
+      },
+      {
+        "grade": "4",
+        "from": 40,
+        "to": 49
+      },
+      {
+        "grade": "5",
+        "from": 50,
+        "to": 61
+      },
+      {
+        "grade": "6",
+        "from": 62,
+        "to": 72
+      },
+      {
+        "grade": "7",
+        "from": 73,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "CATALAN A LIT",
+    "level": "HL",
+    "subjectOption": "CATALAN A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "grade": "2",
+        "from": 16,
+        "to": 30
+      },
+      {
+        "grade": "3",
+        "from": 31,
+        "to": 41
+      },
+      {
+        "grade": "4",
+        "from": 42,
+        "to": 54
+      },
+      {
+        "grade": "5",
+        "from": 55,
+        "to": 66
+      },
+      {
+        "grade": "6",
+        "from": 67,
+        "to": 79
+      },
+      {
+        "grade": "7",
+        "from": 80,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "CHINESE A LAL",
+    "level": "HL",
+    "subjectOption": "CHINESE A: Lang and Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "grade": "2",
+        "from": 13,
+        "to": 25
+      },
+      {
+        "grade": "3",
+        "from": 26,
+        "to": 40
+      },
+      {
+        "grade": "4",
+        "from": 41,
+        "to": 53
+      },
+      {
+        "grade": "5",
+        "from": 54,
+        "to": 65
+      },
+      {
+        "grade": "6",
+        "from": 66,
+        "to": 78
+      },
+      {
+        "grade": "7",
+        "from": 79,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "CHINESE A LAL",
+    "level": "SL",
+    "subjectOption": "CHINESE A: Lang and Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "grade": "2",
+        "from": 13,
+        "to": 27
+      },
+      {
+        "grade": "3",
+        "from": 28,
+        "to": 42
+      },
+      {
+        "grade": "4",
+        "from": 43,
+        "to": 53
+      },
+      {
+        "grade": "5",
+        "from": 54,
+        "to": 67
+      },
+      {
+        "grade": "6",
+        "from": 68,
+        "to": 78
+      },
+      {
+        "grade": "7",
+        "from": 79,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "CHINESE A LIT",
+    "level": "HL",
+    "subjectOption": "CHINESE A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 14
+      },
+      {
+        "grade": "2",
+        "from": 15,
+        "to": 29
+      },
+      {
+        "grade": "3",
+        "from": 30,
+        "to": 44
+      },
+      {
+        "grade": "4",
+        "from": 45,
+        "to": 54
+      },
+      {
+        "grade": "5",
+        "from": 55,
+        "to": 65
+      },
+      {
+        "grade": "6",
+        "from": 66,
+        "to": 76
+      },
+      {
+        "grade": "7",
+        "from": 77,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "CHINESE A LIT",
+    "level": "SL",
+    "subjectOption": "CHINESE A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "grade": "2",
+        "from": 16,
+        "to": 30
+      },
+      {
+        "grade": "3",
+        "from": 31,
+        "to": 42
+      },
+      {
+        "grade": "4",
+        "from": 43,
+        "to": 53
+      },
+      {
+        "grade": "5",
+        "from": 54,
+        "to": 64
+      },
+      {
+        "grade": "6",
+        "from": 65,
+        "to": 76
+      },
+      {
+        "grade": "7",
+        "from": 77,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "CHINESE A LIT",
+    "level": "SL",
+    "subjectOption": "CHINESE A: Literature self taught",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "grade": "2",
+        "from": 16,
+        "to": 30
+      },
+      {
+        "grade": "3",
+        "from": 31,
+        "to": 42
+      },
+      {
+        "grade": "4",
+        "from": 43,
+        "to": 53
+      },
+      {
+        "grade": "5",
+        "from": 54,
+        "to": 64
+      },
+      {
+        "grade": "6",
+        "from": 65,
+        "to": 76
+      },
+      {
+        "grade": "7",
+        "from": 77,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ENGLISH A LAL",
+    "level": "HL",
+    "subjectOption": "ENGLISH A: Lang and Literature",
+    "timezone": 1,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 11
+      },
+      {
+        "grade": "2",
+        "from": 12,
+        "to": 24
+      },
+      {
+        "grade": "3",
+        "from": 25,
+        "to": 36
+      },
+      {
+        "grade": "4",
+        "from": 37,
+        "to": 49
+      },
+      {
+        "grade": "5",
+        "from": 50,
+        "to": 62
+      },
+      {
+        "grade": "6",
+        "from": 63,
+        "to": 77
+      },
+      {
+        "grade": "7",
+        "from": 78,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ENGLISH A LAL",
+    "level": "HL",
+    "subjectOption": "ENGLISH A: Lang and Literature",
+    "timezone": 2,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "grade": "2",
+        "from": 13,
+        "to": 25
+      },
+      {
+        "grade": "3",
+        "from": 26,
+        "to": 35
+      },
+      {
+        "grade": "4",
+        "from": 36,
+        "to": 49
+      },
+      {
+        "grade": "5",
+        "from": 50,
+        "to": 61
+      },
+      {
+        "grade": "6",
+        "from": 62,
+        "to": 76
+      },
+      {
+        "grade": "7",
+        "from": 77,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ENGLISH A LAL",
+    "level": "SL",
+    "subjectOption": "ENGLISH A: Lang and Literature",
+    "timezone": 1,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 22
+      },
+      {
+        "grade": "3",
+        "from": 23,
+        "to": 34
+      },
+      {
+        "grade": "4",
+        "from": 35,
+        "to": 45
+      },
+      {
+        "grade": "5",
+        "from": 46,
+        "to": 56
+      },
+      {
+        "grade": "6",
+        "from": 57,
+        "to": 70
+      },
+      {
+        "grade": "7",
+        "from": 71,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ENGLISH A LAL",
+    "level": "SL",
+    "subjectOption": "ENGLISH A: Lang and Literature",
+    "timezone": 2,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 22
+      },
+      {
+        "grade": "3",
+        "from": 23,
+        "to": 34
+      },
+      {
+        "grade": "4",
+        "from": 35,
+        "to": 45
+      },
+      {
+        "grade": "5",
+        "from": 46,
+        "to": 59
+      },
+      {
+        "grade": "6",
+        "from": 60,
+        "to": 76
+      },
+      {
+        "grade": "7",
+        "from": 77,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ENGLISH A LIT",
+    "level": "HL",
+    "subjectOption": "ENGLISH A: Literature",
+    "timezone": 1,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 11
+      },
+      {
+        "grade": "2",
+        "from": 12,
+        "to": 24
+      },
+      {
+        "grade": "3",
+        "from": 25,
+        "to": 37
+      },
+      {
+        "grade": "4",
+        "from": 38,
+        "to": 52
+      },
+      {
+        "grade": "5",
+        "from": 53,
+        "to": 65
+      },
+      {
+        "grade": "6",
+        "from": 66,
+        "to": 79
+      },
+      {
+        "grade": "7",
+        "from": 80,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ENGLISH A LIT",
+    "level": "HL",
+    "subjectOption": "ENGLISH A: Literature",
+    "timezone": 2,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 11
+      },
+      {
+        "grade": "2",
+        "from": 12,
+        "to": 24
+      },
+      {
+        "grade": "3",
+        "from": 25,
+        "to": 37
+      },
+      {
+        "grade": "4",
+        "from": 38,
+        "to": 49
+      },
+      {
+        "grade": "5",
+        "from": 50,
+        "to": 61
+      },
+      {
+        "grade": "6",
+        "from": 62,
+        "to": 73
+      },
+      {
+        "grade": "7",
+        "from": 74,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ENGLISH A LIT",
+    "level": "SL",
+    "subjectOption": "ENGLISH A: Literature",
+    "timezone": 1,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 22
+      },
+      {
+        "grade": "3",
+        "from": 23,
+        "to": 34
+      },
+      {
+        "grade": "4",
+        "from": 35,
+        "to": 48
+      },
+      {
+        "grade": "5",
+        "from": 49,
+        "to": 64
+      },
+      {
+        "grade": "6",
+        "from": 65,
+        "to": 78
+      },
+      {
+        "grade": "7",
+        "from": 79,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ENGLISH A LIT",
+    "level": "SL",
+    "subjectOption": "ENGLISH A: Literature",
+    "timezone": 2,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 22
+      },
+      {
+        "grade": "3",
+        "from": 23,
+        "to": 34
+      },
+      {
+        "grade": "4",
+        "from": 35,
+        "to": 45
+      },
+      {
+        "grade": "5",
+        "from": 46,
+        "to": 56
+      },
+      {
+        "grade": "6",
+        "from": 57,
+        "to": 67
+      },
+      {
+        "grade": "7",
+        "from": 68,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ENV.AND SOC.",
+    "level": "SL",
+    "subjectOption": "ENV.AND SOC.",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 19
+      },
+      {
+        "grade": "3",
+        "from": 20,
+        "to": 29
+      },
+      {
+        "grade": "4",
+        "from": 30,
+        "to": 40
+      },
+      {
+        "grade": "5",
+        "from": 41,
+        "to": 51
+      },
+      {
+        "grade": "6",
+        "from": 52,
+        "to": 61
+      },
+      {
+        "grade": "7",
+        "from": 62,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "FINNISH A LIT",
+    "level": "HL",
+    "subjectOption": "FINNISH A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 14
+      },
+      {
+        "grade": "2",
+        "from": 15,
+        "to": 27
+      },
+      {
+        "grade": "3",
+        "from": 28,
+        "to": 41
+      },
+      {
+        "grade": "4",
+        "from": 42,
+        "to": 53
+      },
+      {
+        "grade": "5",
+        "from": 54,
+        "to": 62
+      },
+      {
+        "grade": "6",
+        "from": 63,
+        "to": 74
+      },
+      {
+        "grade": "7",
+        "from": 75,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "FINNISH A LIT",
+    "level": "SL",
+    "subjectOption": "FINNISH A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 22
+      },
+      {
+        "grade": "3",
+        "from": 23,
+        "to": 31
+      },
+      {
+        "grade": "4",
+        "from": 32,
+        "to": 45
+      },
+      {
+        "grade": "5",
+        "from": 46,
+        "to": 59
+      },
+      {
+        "grade": "6",
+        "from": 60,
+        "to": 73
+      },
+      {
+        "grade": "7",
+        "from": 74,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "INDONES A LAL",
+    "level": "HL",
+    "subjectOption": "INDONESIAN A: Lang and Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "grade": "2",
+        "from": 16,
+        "to": 30
+      },
+      {
+        "grade": "3",
+        "from": 31,
+        "to": 45
+      },
+      {
+        "grade": "4",
+        "from": 46,
+        "to": 58
+      },
+      {
+        "grade": "5",
+        "from": 59,
+        "to": 70
+      },
+      {
+        "grade": "6",
+        "from": 71,
+        "to": 83
+      },
+      {
+        "grade": "7",
+        "from": 84,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "INDONES A LAL",
+    "level": "SL",
+    "subjectOption": "INDONESIAN A: Lang and Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "grade": "2",
+        "from": 16,
+        "to": 30
+      },
+      {
+        "grade": "3",
+        "from": 31,
+        "to": 45
+      },
+      {
+        "grade": "4",
+        "from": 46,
+        "to": 59
+      },
+      {
+        "grade": "5",
+        "from": 60,
+        "to": 70
+      },
+      {
+        "grade": "6",
+        "from": 71,
+        "to": 84
+      },
+      {
+        "grade": "7",
+        "from": 85,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ITALIAN A LAL",
+    "level": "HL",
+    "subjectOption": "ITALIAN A: Lang and Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 10
+      },
+      {
+        "grade": "2",
+        "from": 11,
+        "to": 21
+      },
+      {
+        "grade": "3",
+        "from": 22,
+        "to": 34
+      },
+      {
+        "grade": "4",
+        "from": 35,
+        "to": 47
+      },
+      {
+        "grade": "5",
+        "from": 48,
+        "to": 57
+      },
+      {
+        "grade": "6",
+        "from": 58,
+        "to": 76
+      },
+      {
+        "grade": "7",
+        "from": 77,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ITALIAN A LAL",
+    "level": "SL",
+    "subjectOption": "ITALIAN A: Lang and Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 22
+      },
+      {
+        "grade": "3",
+        "from": 23,
+        "to": 34
+      },
+      {
+        "grade": "4",
+        "from": 35,
+        "to": 45
+      },
+      {
+        "grade": "5",
+        "from": 46,
+        "to": 59
+      },
+      {
+        "grade": "6",
+        "from": 60,
+        "to": 70
+      },
+      {
+        "grade": "7",
+        "from": 71,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ITALIAN A LIT",
+    "level": "HL",
+    "subjectOption": "ITALIAN A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "grade": "2",
+        "from": 16,
+        "to": 30
+      },
+      {
+        "grade": "3",
+        "from": 31,
+        "to": 45
+      },
+      {
+        "grade": "4",
+        "from": 46,
+        "to": 58
+      },
+      {
+        "grade": "5",
+        "from": 59,
+        "to": 70
+      },
+      {
+        "grade": "6",
+        "from": 71,
+        "to": 83
+      },
+      {
+        "grade": "7",
+        "from": 84,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "ITALIAN A LIT",
+    "level": "SL",
+    "subjectOption": "ITALIAN A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 22
+      },
+      {
+        "grade": "3",
+        "from": 23,
+        "to": 34
+      },
+      {
+        "grade": "4",
+        "from": 35,
+        "to": 48
+      },
+      {
+        "grade": "5",
+        "from": 49,
+        "to": 67
+      },
+      {
+        "grade": "6",
+        "from": 68,
+        "to": 78
+      },
+      {
+        "grade": "7",
+        "from": 79,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "JAPANES A LAL",
+    "level": "HL",
+    "subjectOption": "JAPANESE A: Lang and Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 10
+      },
+      {
+        "grade": "2",
+        "from": 11,
+        "to": 20
+      },
+      {
+        "grade": "3",
+        "from": 21,
+        "to": 31
+      },
+      {
+        "grade": "4",
+        "from": 32,
+        "to": 44
+      },
+      {
+        "grade": "5",
+        "from": 45,
+        "to": 56
+      },
+      {
+        "grade": "6",
+        "from": 57,
+        "to": 69
+      },
+      {
+        "grade": "7",
+        "from": 70,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "JAPANES A LAL",
+    "level": "SL",
+    "subjectOption": "JAPANESE A: Lang and Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 19
+      },
+      {
+        "grade": "3",
+        "from": 20,
+        "to": 28
+      },
+      {
+        "grade": "4",
+        "from": 29,
+        "to": 40
+      },
+      {
+        "grade": "5",
+        "from": 41,
+        "to": 51
+      },
+      {
+        "grade": "6",
+        "from": 52,
+        "to": 62
+      },
+      {
+        "grade": "7",
+        "from": 63,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "MATH ANALYSIS",
+    "level": "HL",
+    "subjectOption": "MATHEMATICS ANALYSIS AND APPROACHES",
+    "timezone": 1,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "grade": "2",
+        "from": 4,
+        "to": 12
+      },
+      {
+        "grade": "3",
+        "from": 13,
+        "to": 23
+      },
+      {
+        "grade": "4",
+        "from": 24,
+        "to": 35
+      },
+      {
+        "grade": "5",
+        "from": 36,
+        "to": 48
+      },
+      {
+        "grade": "6",
+        "from": 49,
+        "to": 62
+      },
+      {
+        "grade": "7",
+        "from": 63,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "MATH ANALYSIS",
+    "level": "HL",
+    "subjectOption": "MATHEMATICS ANALYSIS AND APPROACHES",
+    "timezone": 2,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "grade": "2",
+        "from": 4,
+        "to": 11
+      },
+      {
+        "grade": "3",
+        "from": 12,
+        "to": 23
+      },
+      {
+        "grade": "4",
+        "from": 24,
+        "to": 37
+      },
+      {
+        "grade": "5",
+        "from": 38,
+        "to": 52
+      },
+      {
+        "grade": "6",
+        "from": 53,
+        "to": 68
+      },
+      {
+        "grade": "7",
+        "from": 69,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "MATH ANALYSIS",
+    "level": "SL",
+    "subjectOption": "MATHEMATICS ANALYSIS AND APPROACHES",
+    "timezone": 1,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "grade": "2",
+        "from": 4,
+        "to": 8
+      },
+      {
+        "grade": "3",
+        "from": 9,
+        "to": 18
+      },
+      {
+        "grade": "4",
+        "from": 19,
+        "to": 30
+      },
+      {
+        "grade": "5",
+        "from": 31,
+        "to": 44
+      },
+      {
+        "grade": "6",
+        "from": 45,
+        "to": 62
+      },
+      {
+        "grade": "7",
+        "from": 63,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "MATH ANALYSIS",
+    "level": "SL",
+    "subjectOption": "MATHEMATICS ANALYSIS AND APPROACHES",
+    "timezone": 2,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "grade": "2",
+        "from": 4,
+        "to": 11
+      },
+      {
+        "grade": "3",
+        "from": 12,
+        "to": 22
+      },
+      {
+        "grade": "4",
+        "from": 23,
+        "to": 39
+      },
+      {
+        "grade": "5",
+        "from": 40,
+        "to": 57
+      },
+      {
+        "grade": "6",
+        "from": 58,
+        "to": 71
+      },
+      {
+        "grade": "7",
+        "from": 72,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "MOD.GR A LAL",
+    "level": "SL",
+    "subjectOption": "MOD.GREEK A: Lang and Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "grade": "2",
+        "from": 16,
+        "to": 30
+      },
+      {
+        "grade": "3",
+        "from": 31,
+        "to": 42
+      },
+      {
+        "grade": "4",
+        "from": 43,
+        "to": 53
+      },
+      {
+        "grade": "5",
+        "from": 54,
+        "to": 64
+      },
+      {
+        "grade": "6",
+        "from": 65,
+        "to": 84
+      },
+      {
+        "grade": "7",
+        "from": 85,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "MOD.GR A LIT",
+    "level": "SL",
+    "subjectOption": "MOD.GREEK A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "grade": "2",
+        "from": 13,
+        "to": 24
+      },
+      {
+        "grade": "3",
+        "from": 25,
+        "to": 37
+      },
+      {
+        "grade": "4",
+        "from": 38,
+        "to": 48
+      },
+      {
+        "grade": "5",
+        "from": 49,
+        "to": 59
+      },
+      {
+        "grade": "6",
+        "from": 60,
+        "to": 70
+      },
+      {
+        "grade": "7",
+        "from": 71,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "NORWEGI A LIT",
+    "level": "HL",
+    "subjectOption": "NORWEGIAN A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "grade": "2",
+        "from": 16,
+        "to": 31
+      },
+      {
+        "grade": "3",
+        "from": 32,
+        "to": 42
+      },
+      {
+        "grade": "4",
+        "from": 43,
+        "to": 53
+      },
+      {
+        "grade": "5",
+        "from": 54,
+        "to": 64
+      },
+      {
+        "grade": "6",
+        "from": 65,
+        "to": 74
+      },
+      {
+        "grade": "7",
+        "from": 75,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "NORWEGI A LIT",
+    "level": "SL",
+    "subjectOption": "NORWEGIAN A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "grade": "2",
+        "from": 16,
+        "to": 30
+      },
+      {
+        "grade": "3",
+        "from": 31,
+        "to": 42
+      },
+      {
+        "grade": "4",
+        "from": 43,
+        "to": 53
+      },
+      {
+        "grade": "5",
+        "from": 54,
+        "to": 64
+      },
+      {
+        "grade": "6",
+        "from": 65,
+        "to": 76
+      },
+      {
+        "grade": "7",
+        "from": 77,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "PORTUGU A LAL",
+    "level": "HL",
+    "subjectOption": "PORTUGUESE A: Lang and Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "grade": "2",
+        "from": 16,
+        "to": 30
+      },
+      {
+        "grade": "3",
+        "from": 31,
+        "to": 46
+      },
+      {
+        "grade": "4",
+        "from": 47,
+        "to": 61
+      },
+      {
+        "grade": "5",
+        "from": 62,
+        "to": 70
+      },
+      {
+        "grade": "6",
+        "from": 71,
+        "to": 84
+      },
+      {
+        "grade": "7",
+        "from": 85,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "PORTUGU A LAL",
+    "level": "SL",
+    "subjectOption": "PORTUGUESE A: Lang and Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "grade": "2",
+        "from": 16,
+        "to": 30
+      },
+      {
+        "grade": "3",
+        "from": 31,
+        "to": 45
+      },
+      {
+        "grade": "4",
+        "from": 46,
+        "to": 56
+      },
+      {
+        "grade": "5",
+        "from": 57,
+        "to": 67
+      },
+      {
+        "grade": "6",
+        "from": 68,
+        "to": 78
+      },
+      {
+        "grade": "7",
+        "from": 79,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "RUSSIAN A LAL",
+    "level": "SL",
+    "subjectOption": "RUSSIAN A: Lang and Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 22
+      },
+      {
+        "grade": "3",
+        "from": 23,
+        "to": 34
+      },
+      {
+        "grade": "4",
+        "from": 35,
+        "to": 48
+      },
+      {
+        "grade": "5",
+        "from": 49,
+        "to": 59
+      },
+      {
+        "grade": "6",
+        "from": 60,
+        "to": 73
+      },
+      {
+        "grade": "7",
+        "from": 74,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "RUSSIAN A LIT",
+    "level": "HL",
+    "subjectOption": "RUSSIAN A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "grade": "2",
+        "from": 13,
+        "to": 24
+      },
+      {
+        "grade": "3",
+        "from": 25,
+        "to": 35
+      },
+      {
+        "grade": "4",
+        "from": 36,
+        "to": 47
+      },
+      {
+        "grade": "5",
+        "from": 48,
+        "to": 61
+      },
+      {
+        "grade": "6",
+        "from": 62,
+        "to": 74
+      },
+      {
+        "grade": "7",
+        "from": 75,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "RUSSIAN A LIT",
+    "level": "SL",
+    "subjectOption": "RUSSIAN A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "grade": "2",
+        "from": 13,
+        "to": 27
+      },
+      {
+        "grade": "3",
+        "from": 28,
+        "to": 39
+      },
+      {
+        "grade": "4",
+        "from": 40,
+        "to": 53
+      },
+      {
+        "grade": "5",
+        "from": 54,
+        "to": 64
+      },
+      {
+        "grade": "6",
+        "from": 65,
+        "to": 78
+      },
+      {
+        "grade": "7",
+        "from": 79,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "RUSSIAN A LIT",
+    "level": "SL",
+    "subjectOption": "RUSSIAN A: Literature self taught",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "grade": "2",
+        "from": 13,
+        "to": 27
+      },
+      {
+        "grade": "3",
+        "from": 28,
+        "to": 39
+      },
+      {
+        "grade": "4",
+        "from": 40,
+        "to": 53
+      },
+      {
+        "grade": "5",
+        "from": 54,
+        "to": 64
+      },
+      {
+        "grade": "6",
+        "from": 65,
+        "to": 78
+      },
+      {
+        "grade": "7",
+        "from": 79,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "SOC.CUL.ANTH.",
+    "level": "HL",
+    "subjectOption": "SOC.CUL.ANTH.",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 23
+      },
+      {
+        "grade": "3",
+        "from": 24,
+        "to": 42
+      },
+      {
+        "grade": "4",
+        "from": 43,
+        "to": 52
+      },
+      {
+        "grade": "5",
+        "from": 53,
+        "to": 61
+      },
+      {
+        "grade": "6",
+        "from": 62,
+        "to": 73
+      },
+      {
+        "grade": "7",
+        "from": 74,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "SOC.CUL.ANTH.",
+    "level": "SL",
+    "subjectOption": "SOC.CUL.ANTH.",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 11
+      },
+      {
+        "grade": "2",
+        "from": 12,
+        "to": 24
+      },
+      {
+        "grade": "3",
+        "from": 25,
+        "to": 36
+      },
+      {
+        "grade": "4",
+        "from": 37,
+        "to": 47
+      },
+      {
+        "grade": "5",
+        "from": 48,
+        "to": 59
+      },
+      {
+        "grade": "6",
+        "from": 60,
+        "to": 72
+      },
+      {
+        "grade": "7",
+        "from": 73,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "SPANISH A LAL",
+    "level": "HL",
+    "subjectOption": "SPANISH A: Lang and Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 10
+      },
+      {
+        "grade": "2",
+        "from": 11,
+        "to": 21
+      },
+      {
+        "grade": "3",
+        "from": 22,
+        "to": 34
+      },
+      {
+        "grade": "4",
+        "from": 35,
+        "to": 46
+      },
+      {
+        "grade": "5",
+        "from": 47,
+        "to": 56
+      },
+      {
+        "grade": "6",
+        "from": 57,
+        "to": 68
+      },
+      {
+        "grade": "7",
+        "from": 69,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "SPANISH A LAL",
+    "level": "SL",
+    "subjectOption": "SPANISH A: Lang and Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 22
+      },
+      {
+        "grade": "3",
+        "from": 23,
+        "to": 34
+      },
+      {
+        "grade": "4",
+        "from": 35,
+        "to": 45
+      },
+      {
+        "grade": "5",
+        "from": 46,
+        "to": 59
+      },
+      {
+        "grade": "6",
+        "from": 60,
+        "to": 70
+      },
+      {
+        "grade": "7",
+        "from": 71,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "SPANISH A LIT",
+    "level": "HL",
+    "subjectOption": "SPANISH A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "grade": "2",
+        "from": 13,
+        "to": 25
+      },
+      {
+        "grade": "3",
+        "from": 26,
+        "to": 35
+      },
+      {
+        "grade": "4",
+        "from": 36,
+        "to": 49
+      },
+      {
+        "grade": "5",
+        "from": 50,
+        "to": 62
+      },
+      {
+        "grade": "6",
+        "from": 63,
+        "to": 74
+      },
+      {
+        "grade": "7",
+        "from": 75,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "SPANISH A LIT",
+    "level": "SL",
+    "subjectOption": "SPANISH A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 19
+      },
+      {
+        "grade": "3",
+        "from": 20,
+        "to": 34
+      },
+      {
+        "grade": "4",
+        "from": 35,
+        "to": 48
+      },
+      {
+        "grade": "5",
+        "from": 49,
+        "to": 64
+      },
+      {
+        "grade": "6",
+        "from": 65,
+        "to": 78
+      },
+      {
+        "grade": "7",
+        "from": 79,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "SPANISH A LIT",
+    "level": "SL",
+    "subjectOption": "SPANISH A: Literature self taught",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 19
+      },
+      {
+        "grade": "3",
+        "from": 20,
+        "to": 34
+      },
+      {
+        "grade": "4",
+        "from": 35,
+        "to": 48
+      },
+      {
+        "grade": "5",
+        "from": 49,
+        "to": 64
+      },
+      {
+        "grade": "6",
+        "from": 65,
+        "to": 78
+      },
+      {
+        "grade": "7",
+        "from": 79,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "SPORTS EX SCI",
+    "level": "HL",
+    "subjectOption": "SPORTS EX SCI",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 16
+      },
+      {
+        "grade": "2",
+        "from": 17,
+        "to": 28
+      },
+      {
+        "grade": "3",
+        "from": 29,
+        "to": 37
+      },
+      {
+        "grade": "4",
+        "from": 38,
+        "to": 50
+      },
+      {
+        "grade": "5",
+        "from": 51,
+        "to": 62
+      },
+      {
+        "grade": "6",
+        "from": 63,
+        "to": 74
+      },
+      {
+        "grade": "7",
+        "from": 75,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "SPORTS EX SCI",
+    "level": "SL",
+    "subjectOption": "SPORTS EX SCI",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "grade": "2",
+        "from": 16,
+        "to": 28
+      },
+      {
+        "grade": "3",
+        "from": 29,
+        "to": 40
+      },
+      {
+        "grade": "4",
+        "from": 41,
+        "to": 50
+      },
+      {
+        "grade": "5",
+        "from": 51,
+        "to": 60
+      },
+      {
+        "grade": "6",
+        "from": 61,
+        "to": 72
+      },
+      {
+        "grade": "7",
+        "from": 73,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "SWEDISH A LAL",
+    "level": "SL",
+    "subjectOption": "SWEDISH A: Lang and Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 22
+      },
+      {
+        "grade": "3",
+        "from": 23,
+        "to": 39
+      },
+      {
+        "grade": "4",
+        "from": 40,
+        "to": 48
+      },
+      {
+        "grade": "5",
+        "from": 49,
+        "to": 62
+      },
+      {
+        "grade": "6",
+        "from": 63,
+        "to": 78
+      },
+      {
+        "grade": "7",
+        "from": 79,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "SWEDISH A LIT",
+    "level": "HL",
+    "subjectOption": "SWEDISH A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "grade": "2",
+        "from": 13,
+        "to": 25
+      },
+      {
+        "grade": "3",
+        "from": 26,
+        "to": 37
+      },
+      {
+        "grade": "4",
+        "from": 38,
+        "to": 51
+      },
+      {
+        "grade": "5",
+        "from": 52,
+        "to": 57
+      },
+      {
+        "grade": "6",
+        "from": 58,
+        "to": 76
+      },
+      {
+        "grade": "7",
+        "from": 77,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "SWEDISH A LIT",
+    "level": "SL",
+    "subjectOption": "SWEDISH A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 22
+      },
+      {
+        "grade": "3",
+        "from": 23,
+        "to": 34
+      },
+      {
+        "grade": "4",
+        "from": 35,
+        "to": 48
+      },
+      {
+        "grade": "5",
+        "from": 49,
+        "to": 56
+      },
+      {
+        "grade": "6",
+        "from": 57,
+        "to": 76
+      },
+      {
+        "grade": "7",
+        "from": 77,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "THEATRE PILOT",
+    "level": "HL",
+    "subjectOption": "THEATRE(PILOT)",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "grade": "2",
+        "from": 7,
+        "to": 15
+      },
+      {
+        "grade": "3",
+        "from": 16,
+        "to": 22
+      },
+      {
+        "grade": "4",
+        "from": 23,
+        "to": 40
+      },
+      {
+        "grade": "5",
+        "from": 41,
+        "to": 59
+      },
+      {
+        "grade": "6",
+        "from": 60,
+        "to": 77
+      },
+      {
+        "grade": "7",
+        "from": 78,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "THEORY KNOWL.",
+    "level": "TK",
+    "subjectOption": "THEORY KNOWL.",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "E",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "grade": "D",
+        "from": 4,
+        "to": 9
+      },
+      {
+        "grade": "C",
+        "from": 10,
+        "to": 15
+      },
+      {
+        "grade": "B",
+        "from": 16,
+        "to": 20
+      },
+      {
+        "grade": "A",
+        "from": 21,
+        "to": 30
+      }
+    ]
+  },
+  {
+    "subject": "TURKISH A LIT",
+    "level": "HL",
+    "subjectOption": "TURKISH A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "grade": "2",
+        "from": 16,
+        "to": 30
+      },
+      {
+        "grade": "3",
+        "from": 31,
+        "to": 45
+      },
+      {
+        "grade": "4",
+        "from": 46,
+        "to": 58
+      },
+      {
+        "grade": "5",
+        "from": 59,
+        "to": 70
+      },
+      {
+        "grade": "6",
+        "from": 71,
+        "to": 83
+      },
+      {
+        "grade": "7",
+        "from": 84,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "TURKISH A LIT",
+    "level": "SL",
+    "subjectOption": "TURKISH A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "grade": "2",
+        "from": 10,
+        "to": 19
+      },
+      {
+        "grade": "3",
+        "from": 20,
+        "to": 28
+      },
+      {
+        "grade": "4",
+        "from": 29,
+        "to": 37
+      },
+      {
+        "grade": "5",
+        "from": 38,
+        "to": 45
+      },
+      {
+        "grade": "6",
+        "from": 46,
+        "to": 54
+      },
+      {
+        "grade": "7",
+        "from": 55,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "VIETNAM A LIT",
+    "level": "SL",
+    "subjectOption": "VIETNAMESE A: Literature",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "1",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "grade": "2",
+        "from": 16,
+        "to": 30
+      },
+      {
+        "grade": "3",
+        "from": 31,
+        "to": 45
+      },
+      {
+        "grade": "4",
+        "from": 46,
+        "to": 56
+      },
+      {
+        "grade": "5",
+        "from": 57,
+        "to": 70
+      },
+      {
+        "grade": "6",
+        "from": 71,
+        "to": 81
+      },
+      {
+        "grade": "7",
+        "from": 82,
+        "to": 100
+      }
+    ]
+  },
+  {
+    "subject": "Extended Essay",
+    "level": "EE",
+    "subjectOption": "Extended Essay",
+    "timezone": 0,
+    "gradeBoundaries": [
+      {
+        "grade": "E",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "grade": "D",
+        "from": 6,
+        "to": 12
+      },
+      {
+        "grade": "C",
+        "from": 13,
+        "to": 19
+      },
+      {
+        "grade": "B",
+        "from": 20,
+        "to": 25
+      },
+      {
+        "grade": "A",
+        "from": 26,
+        "to": 34
+      }
+    ]
+  }
+]
