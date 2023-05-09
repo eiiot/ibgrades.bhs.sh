@@ -38,9 +38,6 @@ export default function Home() {
   const [search, setSearch] = useState<string>("");
   const [sort, setSort] = useState<"a-z" | "hardest" | "easiest">("a-z");
   const [filter, setFilter] = useState<"none" | "hl" | "sl">("none");
-  const [finalCourses, setFinalCourses] = useState<CourseType[]>(courses);
-
-  const debouncedSearch = useDebounce(search, 200);
 
   const filteredCourses = courses.filter((c) => {
     if (filter === "hl") return c.level === "HL";
@@ -50,16 +47,9 @@ export default function Home() {
 
   const sortedCourses = sortCourses(sort, filteredCourses);
 
-  useEffect(() => {
-    if (debouncedSearch) {
-      const filtered = sortedCourses.filter((c) =>
-        c.subject.toLowerCase().includes(debouncedSearch.toLowerCase())
-      );
-      setFinalCourses(filtered);
-    } else {
-      setFinalCourses(sortedCourses);
-    }
-  }, [debouncedSearch, sort, filter]);
+  const finalCourses = sortedCourses.filter((c) =>
+    c.subject.toLowerCase().includes(search.toLowerCase())
+  );
 
   return (
     <main className="flex max-w-2xl min-h-screen mx-auto flex-col space-y-4 p-8">
