@@ -2,8 +2,8 @@
 
 import Course, { CourseType } from "@/components/Course";
 import Link from "next/link";
-import { useState } from "react";
-const courses: CourseType[] = require("@/data/boundaries_2019.json");
+import { useState, useEffect } from "react";
+const courses: CourseType[] = require("@/data/boundaries.json");
 
 const sortCourses = (
   sort: "a-z" | "hardest" | "easiest",
@@ -57,8 +57,8 @@ export default function Home() {
         IB Grade Boundaries{" "}
         <span className="text-neutral-600 whitespace-nowrap">
           (May{" "}
-          <Link href="/2021" className="underline">
-            2019
+          <Link href="/" className="underline">
+            2021
           </Link>
           )
         </span>
@@ -69,6 +69,20 @@ export default function Home() {
           eliot
         </a>
       </span>
+      <p className="text-neutral-600">
+        The IB has annouced that it will be{" "}
+        <a
+          href="https://www.ibo.org/news/news-list/further-update-for-the-may-2023-examination-session/"
+          className="underline"
+        >
+          moving away from
+        </a>{" "}
+        COVID-19 grade boundaries starting in May 2023. Although the{" "}
+        <Link href="/" className="underline">
+          2019 boundaries
+        </Link>{" "}
+        are older, they are probably more accurate.
+      </p>
 
       <div className="w-full flex flex-col-reverse md:space-y-0 md:flex-row border-b-[1px] border-b-neutral-600 pb-1">
         <input

@@ -1,10 +1,10 @@
-const file = Bun.file('ib_pdf.txt');
+const file = Bun.file("ib_pdf.txt");
 
 const text = await file.text();
 
 // remove all newlines that are two or more in a row (keep single line breaks)
 
-const fixedText = text.replace(/\n{2,}/g, '\n');
+const fixedText = text.replace(/\n{2,}/g, "\n");
 
 // Subject: NOS Level: SL Subject option: NATURE OF SCIENCE Timezone: 0
 // FINAL
@@ -48,12 +48,12 @@ interface GradeBoundary {
 
 const gradeBoundaries: GradeBoundary[] = [];
 
-const lines = text.split('\n');
+const lines = text.split("\n");
 
 let currentGradeBoundary: GradeBoundary | null = null;
 
 for (const line of lines) {
-  if (line.startsWith('Subject: ')) {
+  if (line.startsWith("Subject: ")) {
     // const [subject, level, subjectOption, timezone] = line
     //   .replace('Subject: ', '')
     //   .replace('Level: ', '')
@@ -62,10 +62,24 @@ for (const line of lines) {
     //   .split(' ');
     // account for the fact that subject option can have spaces
 
-    const subject = line.replace('Subject: ', '').split('Level: ')[0].trim();
-    const level = line.replace('Subject: ', '').split('Level: ')[1].split('Subject option: ')[0].trim();
-    const subjectOption = line.replace('Subject: ', '').split('Level: ')[1].split('Subject option: ')[1].split('Timezone: ')[0].trim();
-    const timezone = line.replace('Subject: ', '').split('Level: ')[1].split('Subject option: ')[1].split('Timezone: ')[1].trim();
+    const subject = line.replace("Subject: ", "").split("Level: ")[0].trim();
+    const level = line
+      .replace("Subject: ", "")
+      .split("Level: ")[1]
+      .split("Subject option: ")[0]
+      .trim();
+    const subjectOption = line
+      .replace("Subject: ", "")
+      .split("Level: ")[1]
+      .split("Subject option: ")[1]
+      .split("Timezone: ")[0]
+      .trim();
+    const timezone = line
+      .replace("Subject: ", "")
+      .split("Level: ")[1]
+      .split("Subject option: ")[1]
+      .split("Timezone: ")[1]
+      .trim();
 
     currentGradeBoundary = {
       subject,
@@ -76,14 +90,16 @@ for (const line of lines) {
     };
 
     gradeBoundaries.push(currentGradeBoundary);
-  } else if (line.startsWith('FINAL')) {
+  } else if (line.startsWith("FINAL")) {
     // do nothing
-  } else if (line.startsWith('Grade From To')) {
+  } else if (line.startsWith("Grade From To")) {
     // do nothing
-  } else if (line.trim() === '') {
+  } else if (line.startsWith("MAY 2019 Grade boundaries")) {
+    // do nothing
+  } else if (line.trim() === "") {
     // do nothing
   } else {
-    const [grade, from, to] = line.split(' ')
+    const [grade, from, to] = line.split(" ");
 
     if (currentGradeBoundary) {
       currentGradeBoundary.gradeBoundaries.push({
@@ -92,9 +108,12 @@ for (const line of lines) {
         to: +to,
       });
     } else {
-      console.error('no current grade boundary');
+      console.error("no current grade boundary");
     }
   }
 }
 
-Bun.write('ib_grade_boundaries.json', JSON.stringify(gradeBoundaries, null, 2));
+Bun.write(
+  "ib_grade_boundaries_19.json",
+  JSON.stringify(gradeBoundaries, null, 2)
+);
