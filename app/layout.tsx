@@ -1,7 +1,6 @@
 import "./globals.css";
 import { Fira_Code, Inter } from "next/font/google";
 import clsx from "clsx";
-import Head from "next/head";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const fira = Fira_Code({ subsets: ["latin"], variable: "--font-fira" });
@@ -19,6 +18,13 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <script
+          defer
+          data-domain="ibgrades.bhs.sh"
+          src="https://analytics.eliothertenstein.com/js/plausible.js"
+        ></script>
+      </head>
       <body
         className={clsx(
           inter.variable,

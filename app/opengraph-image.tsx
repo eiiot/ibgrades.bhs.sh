@@ -16,44 +16,6 @@ export default async function og() {
     )
   ).then((res) => res.arrayBuffer());
 
-  const boundaries = [
-    {
-      grade: "1",
-      from: 0,
-      to: 12,
-    },
-    {
-      grade: "2",
-      from: 13,
-      to: 18,
-    },
-    {
-      grade: "3",
-      from: 19,
-      to: 28,
-    },
-    {
-      grade: "4",
-      from: 29,
-      to: 40,
-    },
-    {
-      grade: "5",
-      from: 41,
-      to: 58,
-    },
-    {
-      grade: "6",
-      from: 59,
-      to: 74,
-    },
-    {
-      grade: "7",
-      from: 75,
-      to: 100,
-    },
-  ];
-
   return new ImageResponse(
     (
       <div tw="flex flex-col p-8 bg-black text-white items-center justify-center w-full h-full relative">
